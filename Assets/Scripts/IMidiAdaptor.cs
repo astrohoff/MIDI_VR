@@ -64,6 +64,7 @@ public abstract class IMidiAdaptor
         }
     }
 
+
     protected static class Statuses
     {
         public const byte NoteOff = 0x8;
@@ -74,7 +75,6 @@ public abstract class IMidiAdaptor
         public const byte ChannelAftertouch = 0xD;
         public const byte PitchBendChange = 0xE;
     }
-
 
     private static class ReservedControllers
     {
