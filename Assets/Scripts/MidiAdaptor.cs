@@ -1,6 +1,7 @@
 ﻿using System;
+using UnityEngine;
 
-public abstract class IMidiAdaptor
+public abstract class MidiAdaptor : MonoBehaviour
 {
     public abstract void SetNoteOff(byte channel, byte note, byte velocity);
     public abstract void SetNoteOn(byte channel, byte note, byte velocity);
