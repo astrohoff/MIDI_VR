@@ -5,7 +5,7 @@ using UnityEngine;
 public class NoteSource : MonoBehaviour {
     private MidiAdaptor midiAdaptor;
     private byte midiChannel;
-    private byte midiNote;
+    private byte midiNote = 64;
     private IEnumerator playCoroutine;
 
     public void Ininitalize(MidiAdaptor midiAdaptor, byte channel, byte note)
@@ -65,5 +65,15 @@ public class NoteSource : MonoBehaviour {
             playCoroutine = null;
         }
         midiAdaptor.SetNoteOff(midiChannel, midiNote, releaseVelocity);
+    }
+
+    public byte GetNote()
+    {
+        return midiNote;
+    }
+
+    public byte GetChannel()
+    {
+        return midiChannel;
     }
 }

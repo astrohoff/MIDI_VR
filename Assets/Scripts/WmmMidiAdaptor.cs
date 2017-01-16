@@ -5,12 +5,14 @@ using UnityEngine;
 public class WmmMidiAdaptor : MidiAdaptor
 {
     private int handle = 0;
+    public int device = 0;
 
     // Imported Windows Multimedia functions.
 
     [DllImport("winmm.dll")]
     private static extern int midiOutGetNumDevs();
     [DllImport("winmm.dll")]
+    // cbMidiOutCaps: (UInt32)Marshal.SizeOf(lpMidiOutCaps)
     private static extern int midiOutGetDevCaps(Int32 uDeviceID, ref MidiOutCaps lpMidiOutCaps, UInt32 cbMidiOutCaps);
     [DllImport("winmm.dll")]
     private static extern int midiOutOpen(ref int handel, int deviceID, MidiCallBack proc, int instance, int flags);
@@ -65,9 +67,10 @@ public class WmmMidiAdaptor : MidiAdaptor
 
     public override void SendPitchBendChange(byte channel, ushort value)
     {
+        // Value: 0x1000 = 1 semitone.
         VerifyRange(channel, 0, 15);
-        VerifyRange(value, 0, 0x4000);
-        // Value split into 7 most significant bits and 7 least significant bits.
+        VerifyRange(value, 0, 0x3FFF);
+        // Value split into 7 least significant bits and 7 most significant bits.
         SendMessage(Statuses.PitchBendChange, channel, (byte)(value & 0x7F), (byte)(value >> 7));
     }
 
@@ -78,6 +81,7 @@ public class WmmMidiAdaptor : MidiAdaptor
         SendMessage(Statuses.ProgramChange, channel, program);
     }
 
+    // This isn't working, controls vibrato.
     public override void SetChannelAftertouch(byte channel, byte pressure)
     {
         VerifyRange(channel, 0, 15);
@@ -85,6 +89,7 @@ public class WmmMidiAdaptor : MidiAdaptor
         SendMessage(Statuses.ChannelAftertouch, channel, pressure);
     }
 
+    // This isn't working; doesn't seem to do anything.
     public override void SetNoteAftertouch(byte channel, byte note, byte pressure)
     {
         VerifyRange(channel, 0, 15);
@@ -109,11 +114,37 @@ public class WmmMidiAdaptor : MidiAdaptor
         SendMessage(Statuses.NotOn, channel, note, velocity);
     }
 
+    private string GetMidiDevicesInfoString()
+    {
+        string str = "";
+        int midiDeviceCount = midiOutGetNumDevs();
+        for(int i = 0; i < midiDeviceCount; i++)
+        {
+            MidiOutCaps deviceCapabilities = new MidiOutCaps();
+            int error = midiOutGetDevCaps(i, ref deviceCapabilities, (UInt32)Marshal.SizeOf(deviceCapabilities));
+            if(error != 0)
+            {
+                throw new Exception("Error getting MIDI device info: " + error + ".");
+            }
+            str += "Device " + i + "\n";
+            str += "\tName: " + deviceCapabilities.szPname + "\n";
+            str += "\tTechnology: " + deviceCapabilities.wTechnology + "\n";
+            str += "\tMax Voice Count: " + deviceCapabilities.wVoices + "\n";
+            str += "\tMax Note Count: " + deviceCapabilities.wNotes + "\n";
+        }
+        return str;
+    }
+
     // MonoBehaviour methods.
 
     private void Awake()
     {
-        midiOutOpen(ref handle, 0, null, 0, 0);
+        Debug.Log(GetMidiDevicesInfoString());
+        int error = midiOutOpen(ref handle, device, null, 0, 0);
+        if(error != 0)
+        {
+            throw new Exception("Error opening MIDI device: " + error + ".");
+        }
     }
 
     private void OnDestroy()
@@ -124,4 +155,6 @@ public class WmmMidiAdaptor : MidiAdaptor
         }
         midiOutClose(handle);
     }
+    
+
 }

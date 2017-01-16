@@ -5,16 +5,23 @@ using UnityEngine;
 public class MidiTester : MonoBehaviour {
     public MidiAdaptor midiAdaptor;
     private NoteSource noteSource;
-    public int channel = 0;
-    public int instrument = 0;
-    public int note = 60;
-    public int velocity = 127;
+    public byte channel = 0;
+    public byte instrument = 0;
+    public byte note = 60;
+    public byte velocity = 127;
+    public bool sendNoteAftertouch = false;
+    public bool sendChannelAftertouch = false;
     public float duration = 2;
     public bool playWithoutRing = false;
     public bool playWithRing = false;
     public bool deaden = false;
-    private int oldInstrument, oldNote, oldChannel;
+    private byte oldInstrument, oldNote, oldChannel;
     private bool oldPlayWithoutRing = false;
+    public ushort pitchChange = 0x2000;
+    public bool sendPitchChange = false;
+    public byte controlNumber = 0;
+    public byte controlValue = 0;
+    public bool sendControlChange = false;
 
 	// Use this for initialization
 	private void Start () {
@@ -30,43 +37,63 @@ public class MidiTester : MonoBehaviour {
 	private void Update () {
         if(oldChannel != channel)
         {
-            midiAdaptor.SetAllSoundOff((byte)oldChannel);
-            midiAdaptor.SendProgramChange((byte)channel, (byte)instrument);
-            noteSource.SetChannel((byte)channel);
+            midiAdaptor.SetAllSoundOff(oldChannel);
+            midiAdaptor.SendProgramChange(channel, instrument);
+            noteSource.SetChannel(channel);
             oldChannel = channel;
         }
         if(oldInstrument != instrument)
         {
-            midiAdaptor.SetAllSoundOff((byte)channel);
-            midiAdaptor.SendProgramChange((byte)channel, (byte)instrument);
+            midiAdaptor.SetAllSoundOff(channel);
+            midiAdaptor.SendProgramChange(channel, instrument);
             oldInstrument = instrument;
         }
         if(oldNote != note)
         {
-            noteSource.SetNote((byte)note);
+            noteSource.SetNote(note);
             oldNote = note;
         }
         if(playWithoutRing != oldPlayWithoutRing)
         {
             if (playWithoutRing)
             {
-                noteSource.Play((byte)velocity);
+                noteSource.Play(velocity);
             }
             else
             {
-                noteSource.Deaden((byte)velocity);
+                noteSource.Deaden(velocity);
             }
             oldPlayWithoutRing = playWithoutRing;
         }
         if (playWithRing)
         {
             playWithRing = false;
-            noteSource.Play((byte)velocity, (byte)velocity, duration);
+            noteSource.Play(velocity, velocity, duration);
+        }
+        if (sendPitchChange)
+        {
+            sendPitchChange = false;
+            midiAdaptor.SendPitchBendChange(channel, pitchChange);
+        }
+        if (sendNoteAftertouch)
+        {
+            sendNoteAftertouch = false;
+            midiAdaptor.SetNoteAftertouch(channel, note, velocity);
+        }
+        if (sendChannelAftertouch)
+        {
+            sendChannelAftertouch = false;
+            midiAdaptor.SetChannelAftertouch(channel, velocity);
+        }
+        if (sendControlChange)
+        {
+            sendControlChange = false;
+            midiAdaptor.SendControlChange(channel, controlNumber, controlValue);
         }
         if (deaden)
         {
             deaden = false;
-            noteSource.Deaden((byte)velocity);
+            noteSource.Deaden(velocity);
         }
 	}
 }
