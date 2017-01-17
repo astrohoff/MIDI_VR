@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 6399e559ce72b254395e4d96ddf250b0
+timeCreated: 1484614918
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f00000090000000910000009200000093000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b93b6c6b2ccc029e50b3b9e1a468a571
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.05952061, y: 2.0302815, z: -3.4124715}
+      lookAt: {x: -1.6418839, y: -58.36706, z: 81.28952}
+      up: {x: -0.010842896, y: 0.8142543, z: 0.5804071}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Component#1 1
+    100004: Component#1 10
+    100006: Component#1 11
+    100008: Component#1 12
+    100010: Component#1 13
+    100012: Component#1 14
+    100014: Component#1 15
+    100016: Component#1 16
+    100018: Component#1 17
+    100020: Component#1 18
+    100022: Component#1 19
+    100024: Component#1 2
+    100026: Component#1 20
+    100028: Component#1 21
+    100030: Component#1 22
+    100032: Component#1 23
+    100034: Component#1 24
+    100036: Component#1 25
+    100038: Component#1 26
+    100040: Component#1 27
+    100042: Component#1 28
+    100044: Component#1 29
+    100046: Component#1 3
+    100048: Component#1 30
+    100050: Component#1 31
+    100052: Component#1 32
+    100054: Component#1 33
+    100056: Component#1 34
+    100058: Component#1 4
+    100060: Component#1 5
+    100062: Component#1 6
+    100064: Component#1 7
+    100066: Component#1 8
+    100068: Component#1 9
+    100070: Component#2
+    100072: Component#2 1
+    100074: Component#3
+    100076: Component#3 1
+    100078: Component#3 10
+    100080: Component#3 11
+    100082: Component#3 12
+    100084: Component#3 13
+    100086: Component#3 14
+    100088: Component#3 15
+    100090: Component#3 16
+    100092: Component#3 17
+    100094: Component#3 18
+    100096: Component#3 19
+    100098: Component#3 2
+    100100: Component#3 20
+    100102: Component#3 21
+    100104: Component#3 22
+    100106: Component#3 23
+    100108: Component#3 24
+    100110: Component#3 25
+    100112: Component#3 26
+    100114: Component#3 27
+    100116: Component#3 3
+    100118: Component#3 4
+    100120: Component#3 5
+    100122: Component#3 6
+    100124: Component#3 7
+    100126: Component#3 8
+    100128: Component#3 9
+    100130: Component#4
+    100132: Component#4 1
+    100134: Component#4 2
+    100136: Component#4 3
+    100138: Component#4 4
+    100140: Component#4 5
+    100142: Component#4 6
+    100144: //RootNode
+    100146: Xyolphone
+    400000: Component#1
+    400002: Component#1 1
+    400004: Component#1 10
+    400006: Component#1 11
+    400008: Component#1 12
+    400010: Component#1 13
+    400012: Component#1 14
+    400014: Component#1 15
+    400016: Component#1 16
+    400018: Component#1 17
+    400020: Component#1 18
+    400022: Component#1 19
+    400024: Component#1 2
+    400026: Component#1 20
+    400028: Component#1 21
+    400030: Component#1 22
+    400032: Component#1 23
+    400034: Component#1 24
+    400036: Component#1 25
+    400038: Component#1 26
+    400040: Component#1 27
+    400042: Component#1 28
+    400044: Component#1 29
+    400046: Component#1 3
+    400048: Component#1 30
+    400050: Component#1 31
+    400052: Component#1 32
+    400054: Component#1 33
+    400056: Component#1 34
+    400058: Component#1 4
+    400060: Component#1 5
+    400062: Component#1 6
+    400064: Component#1 7
+    400066: Component#1 8
+    400068: Component#1 9
+    400070: Component#2
+    400072: Component#2 1
+    400074: Component#3
+    400076: Component#3 1
+    400078: Component#3 10
+    400080: Component#3 11
+    400082: Component#3 12
+    400084: Component#3 13
+    400086: Component#3 14
+    400088: Component#3 15
+    400090: Component#3 16
+    400092: Component#3 17
+    400094: Component#3 18
+    400096: Component#3 19
+    400098: Component#3 2
+    400100: Component#3 20
+    400102: Component#3 21
+    400104: Component#3 22
+    400106: Component#3 23
+    400108: Component#3 24
+    400110: Component#3 25
+    400112: Component#3 26
+    400114: Component#3 27
+    400116: Component#3 3
+    400118: Component#3 4
+    400120: Component#3 5
+    400122: Component#3 6
+    400124: Component#3 7
+    400126: Component#3 8
+    400128: Component#3 9
+    400130: Component#4
+    400132: Component#4 1
+    400134: Component#4 2
+    400136: Component#4 3
+    400138: Component#4 4
+    400140: Component#4 5
+    400142: Component#4 6
+    400144: //RootNode
+    400146: Xyolphone
+    2300000: Component#1
+    2300002: Component#1 1
+    2300004: Component#1 10
+    2300006: Component#1 11
+    2300008: Component#1 12
+    2300010: Component#1 13
+    2300012: Component#1 14
+    2300014: Component#1 15
+    2300016: Component#1 16
+    2300018: Component#1 17
+    2300020: Component#1 18
+    2300022: Component#1 19
+    2300024: Component#1 2
+    2300026: Component#1 20
+    2300028: Component#1 21
+    2300030: Component#1 22
+    2300032: Component#1 23
+    2300034: Component#1 24
+    2300036: Component#1 25
+    2300038: Component#1 26
+    2300040: Component#1 27
+    2300042: Component#1 28
+    2300044: Component#1 29
+    2300046: Component#1 3
+    2300048: Component#1 30
+    2300050: Component#1 31
+    2300052: Component#1 32
+    2300054: Component#1 33
+    2300056: Component#1 34
+    2300058: Component#1 4
+    2300060: Component#1 5
+    2300062: Component#1 6
+    2300064: Component#1 7
+    2300066: Component#1 8
+    2300068: Component#1 9
+    2300070: Component#2
+    2300072: Component#2 1
+    2300074: Component#3
+    2300076: Component#3 1
+    2300078: Component#3 10
+    2300080: Component#3 11
+    2300082: Component#3 12
+    2300084: Component#3 13
+    2300086: Component#3 14
+    2300088: Component#3 15
+    2300090: Component#3 16
+    2300092: Component#3 17
+    2300094: Component#3 18
+    2300096: Component#3 19
+    2300098: Component#3 2
+    2300100: Component#3 20
+    2300102: Component#3 21
+    2300104: Component#3 22
+    2300106: Component#3 23
+    2300108: Component#3 24
+    2300110: Component#3 25
+    2300112: Component#3 26
+    2300114: Component#3 27
+    2300116: Component#3 3
+    2300118: Component#3 4
+    2300120: Component#3 5
+    2300122: Component#3 6
+    2300124: Component#3 7
+    2300126: Component#3 8
+    2300128: Component#3 9
+    2300130: Component#4
+    2300132: Component#4 1
+    2300134: Component#4 2
+    2300136: Component#4 3
+    2300138: Component#4 4
+    2300140: Component#4 5
+    2300142: Component#4 6
+    2300144: //RootNode
+    2300146: Xyolphone
+    3300000: Component#1
+    3300002: Component#1 1
+    3300004: Component#1 10
+    3300006: Component#1 11
+    3300008: Component#1 12
+    3300010: Component#1 13
+    3300012: Component#1 14
+    3300014: Component#1 15
+    3300016: Component#1 16
+    3300018: Component#1 17
+    3300020: Component#1 18
+    3300022: Component#1 19
+    3300024: Component#1 2
+    3300026: Component#1 20
+    3300028: Component#1 21
+    3300030: Component#1 22
+    3300032: Component#1 23
+    3300034: Component#1 24
+    3300036: Component#1 25
+    3300038: Component#1 26
+    3300040: Component#1 27
+    3300042: Component#1 28
+    3300044: Component#1 29
+    3300046: Component#1 3
+    3300048: Component#1 30
+    3300050: Component#1 31
+    3300052: Component#1 32
+    3300054: Component#1 33
+    3300056: Component#1 34
+    3300058: Component#1 4
+    3300060: Component#1 5
+    3300062: Component#1 6
+    3300064: Component#1 7
+    3300066: Component#1 8
+    3300068: Component#1 9
+    3300070: Component#2
+    3300072: Component#2 1
+    3300074: Component#3
+    3300076: Component#3 1
+    3300078: Component#3 10
+    3300080: Component#3 11
+    3300082: Component#3 12
+    3300084: Component#3 13
+    3300086: Component#3 14
+    3300088: Component#3 15
+    3300090: Component#3 16
+    3300092: Component#3 17
+    3300094: Component#3 18
+    3300096: Component#3 19
+    3300098: Component#3 2
+    3300100: Component#3 20
+    3300102: Component#3 21
+    3300104: Component#3 22
+    3300106: Component#3 23
+    3300108: Component#3 24
+    3300110: Component#3 25
+    3300112: Component#3 26
+    3300114: Component#3 27
+    3300116: Component#3 3
+    3300118: Component#3 4
+    3300120: Component#3 5
+    3300122: Component#3 6
+    3300124: Component#3 7
+    3300126: Component#3 8
+    3300128: Component#3 9
+    3300130: Component#4
+    3300132: Component#4 1
+    3300134: Component#4 2
+    3300136: Component#4 3
+    3300138: Component#4 4
+    3300140: Component#4 5
+    3300142: Component#4 6
+    3300144: //RootNode
+    3300146: Xyolphone
+    4300000: Mesh xylophone+2
+    4300002: Mesh Xyolphone
+    4300004: Mesh Component#1
+    4300006: Mesh Component#2
+    4300008: Mesh Component#3
+    4300010: Mesh Component#4
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

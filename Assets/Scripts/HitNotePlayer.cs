@@ -29,20 +29,29 @@ public class HitNotePlayer : MonoBehaviour {
         {
             if (triggeringObjectIDs.IndexOf(c.gameObject.GetInstanceID()) == -1)
             {
-                if (hold)
+                byte attack;
+                if (c.tag == "Left Stick")
                 {
-                    noteSource.Play(127);
+                    attack = (byte)(OVRInput.Get(OVRInput.Axis1D.PrimaryHandTrigger) * 127);
                 }
                 else
                 {
-                    noteSource.Play(127, 127, ringDurration);
+                    attack = (byte)(OVRInput.Get(OVRInput.Axis1D.SecondaryHandTrigger) * 127);
+                }
+                if (hold)
+                {
+                    noteSource.Play(attack);
+                }
+                else
+                {
+                    noteSource.Play(attack, 127, ringDurration);
                 }
                 byte note = noteSource.GetNote();
                 if(noteSource.GetChannel() == 9)
                 {
                     note = Vibrator.GetFreqencyMappedDrumNote(note);
                 }
-                byte[] hapticBuffer = Vibrator.GenerateVibration(note, vibrationSharpness, vibrateDurration, vibrationAmplitude);
+                byte[] hapticBuffer = Vibrator.GenerateVibration(note, vibrationSharpness, vibrateDurration, vibrationAmplitude * ((float)attack / 127));
                 OVRHapticsClip clip = new OVRHapticsClip(hapticBuffer, hapticBuffer.Length);
                 if (c.tag == "Left Stick")
                 {

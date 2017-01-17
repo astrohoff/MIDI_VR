@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: 7d31b0b997323114f9b086e8edd1ee9f
+timeCreated: 1484614934
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000
+  assetHash:
+    serializedVersion: 2
+    Hash: f6147a0c035bcb5059c3af1f30eef1d6
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.69430614, y: 2.3874972, z: 18.505836}
+      lookAt: {x: -99.18219, y: -47.423103, z: 23.301413}
+      up: {x: -0.45035732, y: 0.8925791, z: 0.021928819}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 11
+    100002: Group 13
+    100004: Group 15
+    100006: Group 17
+    100008: Group 2
+    100010: Group 4
+    100012: Group 6
+    100014: Group 9
+    100016: Group#83
+    100018: Group#91
+    100020: Group#91 1
+    100022: Group#91 2
+    100024: Group#91 3
+    100026: Group#91 4
+    100028: Group#92
+    100030: Group#92 1
+    100032: Group#92 2
+    100034: Group#92 3
+    100036: Group#92 4
+    100038: Group#93
+    100040: Group#93 1
+    100042: Group#93 2
+    100044: Group#93 3
+    100046: Group#93 4
+    100048: key#3
+    100050: key#3 1
+    100052: key#3 10
+    100054: key#3 11
+    100056: key#3 12
+    100058: key#3 13
+    100060: key#3 14
+    100062: key#3 15
+    100064: key#3 16
+    100066: key#3 17
+    100068: key#3 18
+    100070: key#3 19
+    100072: key#3 2
+    100074: key#3 20
+    100076: key#3 21
+    100078: key#3 22
+    100080: key#3 23
+    100082: key#3 24
+    100084: key#3 25
+    100086: key#3 26
+    100088: key#3 27
+    100090: key#3 28
+    100092: key#3 29
+    100094: key#3 3
+    100096: key#3 30
+    100098: key#3 31
+    100100: key#3 32
+    100102: key#3 33
+    100104: key#3 34
+    100106: key#3 35
+    100108: key#3 36
+    100110: key#3 37
+    100112: key#3 38
+    100114: key#3 39
+    100116: key#3 4
+    100118: key#3 40
+    100120: key#3 41
+    100122: key#3 42
+    100124: key#3 43
+    100126: key#3 44
+    100128: key#3 45
+    100130: key#3 46
+    100132: key#3 47
+    100134: key#3 48
+    100136: key#3 49
+    100138: key#3 5
+    100140: key#3 50
+    100142: key#3 51
+    100144: key#3 52
+    100146: key#3 53
+    100148: key#3 54
+    100150: key#3 55
+    100152: key#3 56
+    100154: key#3 57
+    100156: key#3 58
+    100158: key#3 59
+    100160: key#3 6
+    100162: key#3 60
+    100164: key#3 7
+    100166: key#3 8
+    100168: key#3 9
+    100170: Marimba 2#3
+    100172: marimba keys#1
+    100174: //RootNode
+    400000: Group 11
+    400002: Group 13
+    400004: Group 15
+    400006: Group 17
+    400008: Group 2
+    400010: Group 4
+    400012: Group 6
+    400014: Group 9
+    400016: Group#83
+    400018: Group#91
+    400020: Group#91 1
+    400022: Group#91 2
+    400024: Group#91 3
+    400026: Group#91 4
+    400028: Group#92
+    400030: Group#92 1
+    400032: Group#92 2
+    400034: Group#92 3
+    400036: Group#92 4
+    400038: Group#93
+    400040: Group#93 1
+    400042: Group#93 2
+    400044: Group#93 3
+    400046: Group#93 4
+    400048: key#3
+    400050: key#3 1
+    400052: key#3 10
+    400054: key#3 11
+    400056: key#3 12
+    400058: key#3 13
+    400060: key#3 14
+    400062: key#3 15
+    400064: key#3 16
+    400066: key#3 17
+    400068: key#3 18
+    400070: key#3 19
+    400072: key#3 2
+    400074: key#3 20
+    400076: key#3 21
+    400078: key#3 22
+    400080: key#3 23
+    400082: key#3 24
+    400084: key#3 25
+    400086: key#3 26
+    400088: key#3 27
+    400090: key#3 28
+    400092: key#3 29
+    400094: key#3 3
+    400096: key#3 30
+    400098: key#3 31
+    400100: key#3 32
+    400102: key#3 33
+    400104: key#3 34
+    400106: key#3 35
+    400108: key#3 36
+    400110: key#3 37
+    400112: key#3 38
+    400114: key#3 39
+    400116: key#3 4
+    400118: key#3 40
+    400120: key#3 41
+    400122: key#3 42
+    400124: key#3 43
+    400126: key#3 44
+    400128: key#3 45
+    400130: key#3 46
+    400132: key#3 47
+    400134: key#3 48
+    400136: key#3 49
+    400138: key#3 5
+    400140: key#3 50
+    400142: key#3 51
+    400144: key#3 52
+    400146: key#3 53
+    400148: key#3 54
+    400150: key#3 55
+    400152: key#3 56
+    400154: key#3 57
+    400156: key#3 58
+    400158: key#3 59
+    400160: key#3 6
+    400162: key#3 60
+    400164: key#3 7
+    400166: key#3 8
+    400168: key#3 9
+    400170: Marimba 2#3
+    400172: marimba keys#1
+    400174: //RootNode
+    2300000: Group 11
+    2300002: Group 13
+    2300004: Group 15
+    2300006: Group 2
+    2300008: Group 4
+    2300010: Group 6
+    2300012: Group 9
+    2300014: Group#83
+    2300016: Group#91
+    2300018: Group#91 1
+    2300020: Group#91 2
+    2300022: Group#91 3
+    2300024: Group#91 4
+    2300026: Group#92
+    2300028: Group#92 1
+    2300030: Group#92 2
+    2300032: Group#92 3
+    2300034: Group#92 4
+    2300036: Group#93
+    2300038: Group#93 1
+    2300040: Group#93 2
+    2300042: Group#93 3
+    2300044: Group#93 4
+    2300046: key#3
+    2300048: key#3 1
+    2300050: key#3 10
+    2300052: key#3 11
+    2300054: key#3 12
+    2300056: key#3 13
+    2300058: key#3 14
+    2300060: key#3 15
+    2300062: key#3 16
+    2300064: key#3 17
+    2300066: key#3 18
+    2300068: key#3 19
+    2300070: key#3 2
+    2300072: key#3 20
+    2300074: key#3 21
+    2300076: key#3 22
+    2300078: key#3 23
+    2300080: key#3 24
+    2300082: key#3 25
+    2300084: key#3 26
+    2300086: key#3 27
+    2300088: key#3 28
+    2300090: key#3 29
+    2300092: key#3 3
+    2300094: key#3 30
+    2300096: key#3 31
+    2300098: key#3 32
+    2300100: key#3 33
+    2300102: key#3 34
+    2300104: key#3 35
+    2300106: key#3 36
+    2300108: key#3 37
+    2300110: key#3 38
+    2300112: key#3 39
+    2300114: key#3 4
+    2300116: key#3 40
+    2300118: key#3 41
+    2300120: key#3 42
+    2300122: key#3 43
+    2300124: key#3 44
+    2300126: key#3 45
+    2300128: key#3 46
+    2300130: key#3 47
+    2300132: key#3 48
+    2300134: key#3 49
+    2300136: key#3 5
+    2300138: key#3 50
+    2300140: key#3 51
+    2300142: key#3 52
+    2300144: key#3 53
+    2300146: key#3 54
+    2300148: key#3 55
+    2300150: key#3 56
+    2300152: key#3 57
+    2300154: key#3 58
+    2300156: key#3 59
+    2300158: key#3 6
+    2300160: key#3 60
+    2300162: key#3 7
+    2300164: key#3 8
+    2300166: key#3 9
+    2300168: marimba keys#1
+    2300170: //RootNode
+    3300000: Group 11
+    3300002: Group 13
+    3300004: Group 15
+    3300006: Group 2
+    3300008: Group 4
+    3300010: Group 6
+    3300012: Group 9
+    3300014: Group#83
+    3300016: Group#91
+    3300018: Group#91 1
+    3300020: Group#91 2
+    3300022: Group#91 3
+    3300024: Group#91 4
+    3300026: Group#92
+    3300028: Group#92 1
+    3300030: Group#92 2
+    3300032: Group#92 3
+    3300034: Group#92 4
+    3300036: Group#93
+    3300038: Group#93 1
+    3300040: Group#93 2
+    3300042: Group#93 3
+    3300044: Group#93 4
+    3300046: key#3
+    3300048: key#3 1
+    3300050: key#3 10
+    3300052: key#3 11
+    3300054: key#3 12
+    3300056: key#3 13
+    3300058: key#3 14
+    3300060: key#3 15
+    3300062: key#3 16
+    3300064: key#3 17
+    3300066: key#3 18
+    3300068: key#3 19
+    3300070: key#3 2
+    3300072: key#3 20
+    3300074: key#3 21
+    3300076: key#3 22
+    3300078: key#3 23
+    3300080: key#3 24
+    3300082: key#3 25
+    3300084: key#3 26
+    3300086: key#3 27
+    3300088: key#3 28
+    3300090: key#3 29
+    3300092: key#3 3
+    3300094: key#3 30
+    3300096: key#3 31
+    3300098: key#3 32
+    3300100: key#3 33
+    3300102: key#3 34
+    3300104: key#3 35
+    3300106: key#3 36
+    3300108: key#3 37
+    3300110: key#3 38
+    3300112: key#3 39
+    3300114: key#3 4
+    3300116: key#3 40
+    3300118: key#3 41
+    3300120: key#3 42
+    3300122: key#3 43
+    3300124: key#3 44
+    3300126: key#3 45
+    3300128: key#3 46
+    3300130: key#3 47
+    3300132: key#3 48
+    3300134: key#3 49
+    3300136: key#3 5
+    3300138: key#3 50
+    3300140: key#3 51
+    3300142: key#3 52
+    3300144: key#3 53
+    3300146: key#3 54
+    3300148: key#3 55
+    3300150: key#3 56
+    3300152: key#3 57
+    3300154: key#3 58
+    3300156: key#3 59
+    3300158: key#3 6
+    3300160: key#3 60
+    3300162: key#3 7
+    3300164: key#3 8
+    3300166: key#3 9
+    3300168: marimba keys#1
+    3300170: //RootNode
+    4300000: Mesh miramba
+    4300002: Mesh Group 2
+    4300004: Mesh Group 4
+    4300006: Mesh Group 6
+    4300008: Mesh Group 9
+    4300010: Mesh marimba keys#1
+    4300012: Mesh key#3
+    4300014: Mesh Group#83
+    4300016: Mesh Group#91
+    4300018: Mesh Group#93
+    4300020: Mesh Group#92
+    4300022: Mesh Group#91
+    4300024: Mesh Group#92
+    4300026: Mesh Group#93
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

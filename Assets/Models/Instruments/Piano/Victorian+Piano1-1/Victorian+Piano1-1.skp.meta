@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: ee7006cff75b15146b91fc75ad0aaef3
+timeCreated: 1484614953
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f0000005000000051000000520000005300000054000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 5c64d5716dc3c51d1e49337f8c8440df
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.249159, y: 1.273288, z: -1.5528514}
+      lookAt: {x: -11.873456, y: -6.7073154, z: 16.860256}
+      up: {x: -0.19792391, y: 0.94563967, z: 0.25805378}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Group 3
+    100002: key
+    100004: key 1
+    100006: key 10
+    100008: key 11
+    100010: key 12
+    100012: key 13
+    100014: key 14
+    100016: key 15
+    100018: key 16
+    100020: key 17
+    100022: key 18
+    100024: key 19
+    100026: key 2
+    100028: key 20
+    100030: key 21
+    100032: key 22
+    100034: key 23
+    100036: key 24
+    100038: key 25
+    100040: key 26
+    100042: key 27
+    100044: key 28
+    100046: key 29
+    100048: key 3
+    100050: key 30
+    100052: key 31
+    100054: key 32
+    100056: key 33
+    100058: key 34
+    100060: key 35
+    100062: key 36
+    100064: key 4
+    100066: key 5
+    100068: key 6
+    100070: key 7
+    100072: key 8
+    100074: key 9
+    100076: keys
+    100078: Piano_Half
+    100080: Piano_Half 1
+    100082: Upright piano
+    100084: //RootNode
+    400000: Group 3
+    400002: key
+    400004: key 1
+    400006: key 10
+    400008: key 11
+    400010: key 12
+    400012: key 13
+    400014: key 14
+    400016: key 15
+    400018: key 16
+    400020: key 17
+    400022: key 18
+    400024: key 19
+    400026: key 2
+    400028: key 20
+    400030: key 21
+    400032: key 22
+    400034: key 23
+    400036: key 24
+    400038: key 25
+    400040: key 26
+    400042: key 27
+    400044: key 28
+    400046: key 29
+    400048: key 3
+    400050: key 30
+    400052: key 31
+    400054: key 32
+    400056: key 33
+    400058: key 34
+    400060: key 35
+    400062: key 36
+    400064: key 4
+    400066: key 5
+    400068: key 6
+    400070: key 7
+    400072: key 8
+    400074: key 9
+    400076: keys
+    400078: Piano_Half
+    400080: Piano_Half 1
+    400082: Upright piano
+    400084: //RootNode
+    2300000: Group 3
+    2300002: key
+    2300004: key 1
+    2300006: key 10
+    2300008: key 11
+    2300010: key 12
+    2300012: key 13
+    2300014: key 14
+    2300016: key 15
+    2300018: key 16
+    2300020: key 17
+    2300022: key 18
+    2300024: key 19
+    2300026: key 2
+    2300028: key 20
+    2300030: key 21
+    2300032: key 22
+    2300034: key 23
+    2300036: key 24
+    2300038: key 25
+    2300040: key 26
+    2300042: key 27
+    2300044: key 28
+    2300046: key 29
+    2300048: key 3
+    2300050: key 30
+    2300052: key 31
+    2300054: key 32
+    2300056: key 33
+    2300058: key 34
+    2300060: key 35
+    2300062: key 36
+    2300064: key 4
+    2300066: key 5
+    2300068: key 6
+    2300070: key 7
+    2300072: key 8
+    2300074: key 9
+    2300076: keys
+    2300078: Piano_Half
+    2300080: Piano_Half 1
+    2300082: Upright piano
+    3300000: Group 3
+    3300002: key
+    3300004: key 1
+    3300006: key 10
+    3300008: key 11
+    3300010: key 12
+    3300012: key 13
+    3300014: key 14
+    3300016: key 15
+    3300018: key 16
+    3300020: key 17
+    3300022: key 18
+    3300024: key 19
+    3300026: key 2
+    3300028: key 20
+    3300030: key 21
+    3300032: key 22
+    3300034: key 23
+    3300036: key 24
+    3300038: key 25
+    3300040: key 26
+    3300042: key 27
+    3300044: key 28
+    3300046: key 29
+    3300048: key 3
+    3300050: key 30
+    3300052: key 31
+    3300054: key 32
+    3300056: key 33
+    3300058: key 34
+    3300060: key 35
+    3300062: key 36
+    3300064: key 4
+    3300066: key 5
+    3300068: key 6
+    3300070: key 7
+    3300072: key 8
+    3300074: key 9
+    3300076: keys
+    3300078: Piano_Half
+    3300080: Piano_Half 1
+    3300082: Upright piano
+    4300000: Mesh Upright piano
+    4300002: Mesh Group 3
+    4300004: Mesh keys
+    4300006: Mesh key
+    4300008: Mesh Piano_Half
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

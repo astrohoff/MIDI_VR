@@ -1,0 +1,772 @@
+fileFormatVersion: 2
+guid: 5dd8d0eb61884f049ab78acba358c7e0
+timeCreated: 1484614917
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a60000000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000
+  assetHash:
+    serializedVersion: 2
+    Hash: b8943ed38b81031e6ab2971f94e61db1
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.5398012, y: 2.8453429, z: -1.7000691}
+      lookAt: {x: 0.5707757, y: 0.55336916, z: 0.07738881}
+      up: {x: 0.013767691, y: 0.61288357, z: 0.7900533}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: draw barrs
+    100002: drawbars
+    100004: 'expression pedal '
+    100006: Fader Trim Cover
+    100008: Footing
+    100010: Footing 1
+    100012: Footing 2
+    100014: Footing 3
+    100016: Footing 4
+    100018: Footing 5
+    100020: Footing 6
+    100022: Footing 7
+    100024: Front Hinge
+    100026: Front Key Cover Open
+    100028: Group 262
+    100030: Group 264
+    100032: Group 268
+    100034: Group 389
+    100036: Group 391
+    100038: Group 393
+    100040: Group 395
+    100042: Group 397
+    100044: Group 399
+    100046: Group 401
+    100048: Group#26
+    100050: //RootNode
+    100052: Hinge
+    100054: Hinge 1
+    100056: Hinge 10
+    100058: Hinge 11
+    100060: Hinge 12
+    100062: Hinge 13
+    100064: Hinge 14
+    100066: Hinge 15
+    100068: Hinge 16
+    100070: Hinge 17
+    100072: Hinge 18
+    100074: Hinge 19
+    100076: Hinge 2
+    100078: Hinge 20
+    100080: Hinge 21
+    100082: Hinge 22
+    100084: Hinge 23
+    100086: Hinge 24
+    100088: Hinge 25
+    100090: Hinge 26
+    100092: Hinge 27
+    100094: Hinge 28
+    100096: Hinge 29
+    100098: Hinge 3
+    100100: Hinge 30
+    100102: Hinge 31
+    100104: Hinge 32
+    100106: Hinge 33
+    100108: Hinge 34
+    100110: Hinge 35
+    100112: Hinge 36
+    100114: Hinge 37
+    100116: Hinge 38
+    100118: Hinge 39
+    100120: Hinge 4
+    100122: Hinge 40
+    100124: Hinge 41
+    100126: Hinge 42
+    100128: Hinge 43
+    100130: Hinge 44
+    100132: Hinge 45
+    100134: Hinge 46
+    100136: Hinge 47
+    100138: Hinge 48
+    100140: Hinge 49
+    100142: Hinge 5
+    100144: Hinge 50
+    100146: Hinge 51
+    100148: Hinge 52
+    100150: Hinge 53
+    100152: Hinge 54
+    100154: Hinge 55
+    100156: Hinge 56
+    100158: Hinge 57
+    100160: Hinge 58
+    100162: Hinge 59
+    100164: Hinge 6
+    100166: Hinge 60
+    100168: Hinge 61
+    100170: Hinge 62
+    100172: Hinge 63
+    100174: Hinge 64
+    100176: Hinge 65
+    100178: Hinge 66
+    100180: Hinge 67
+    100182: Hinge 68
+    100184: Hinge 69
+    100186: Hinge 7
+    100188: Hinge 70
+    100190: Hinge 71
+    100192: Hinge 72
+    100194: Hinge 73
+    100196: Hinge 74
+    100198: Hinge 75
+    100200: Hinge 76
+    100202: Hinge 77
+    100204: Hinge 78
+    100206: Hinge 79
+    100208: Hinge 8
+    100210: Hinge 80
+    100212: Hinge 81
+    100214: Hinge 82
+    100216: Hinge 83
+    100218: Hinge 84
+    100220: Hinge 85
+    100222: Hinge 86
+    100224: Hinge 87
+    100226: Hinge 88
+    100228: Hinge 89
+    100230: Hinge 9
+    100232: Hinge 90
+    100234: Hinge 91
+    100236: Hinge 92
+    100238: Hinge 93
+    100240: Hinge Plate
+    100242: Hinge Plate 1
+    100244: Hinge Plate 2
+    100246: Hinge Plate 3
+    100248: Key Rack
+    100250: keyboardd
+    100252: keyboardd 1
+    100254: Legs
+    100256: Legs 1
+    100258: Lid Section Front Open
+    100260: Lid Section Rear
+    100262: Main Cabinet
+    100264: pedalboard
+    100266: Piano Stool
+    100268: Stool Leg
+    100270: Stool Leg 1
+    100272: Stool Leg 2
+    100274: Stool Leg 3
+    100276: Stool Seat
+    100278: swiitchh
+    100280: swiitchh 1
+    100282: Toggle
+    100284: Toggle 1
+    100286: Toggle 2
+    100288: Toggle 3
+    100290: Toggle 4
+    100292: Toggle 5
+    100294: Toggle 6
+    100296: Top Hinge
+    100298: Top Leg
+    100300: Top Leg 1
+    100302: Top Leg 2
+    100304: Top Leg 3
+    100306: Top Leg 4
+    100308: Top Leg 5
+    100310: Top Leg 6
+    100312: Top Leg 7
+    100314: Upper Keys Face Cover
+    100316: white db
+    100318: white db 1
+    400000: draw barrs
+    400002: drawbars
+    400004: 'expression pedal '
+    400006: Fader Trim Cover
+    400008: Footing
+    400010: Footing 1
+    400012: Footing 2
+    400014: Footing 3
+    400016: Footing 4
+    400018: Footing 5
+    400020: Footing 6
+    400022: Footing 7
+    400024: Front Hinge
+    400026: Front Key Cover Open
+    400028: Group 262
+    400030: Group 264
+    400032: Group 268
+    400034: Group 389
+    400036: Group 391
+    400038: Group 393
+    400040: Group 395
+    400042: Group 397
+    400044: Group 399
+    400046: Group 401
+    400048: Group#26
+    400050: //RootNode
+    400052: Hinge
+    400054: Hinge 1
+    400056: Hinge 10
+    400058: Hinge 11
+    400060: Hinge 12
+    400062: Hinge 13
+    400064: Hinge 14
+    400066: Hinge 15
+    400068: Hinge 16
+    400070: Hinge 17
+    400072: Hinge 18
+    400074: Hinge 19
+    400076: Hinge 2
+    400078: Hinge 20
+    400080: Hinge 21
+    400082: Hinge 22
+    400084: Hinge 23
+    400086: Hinge 24
+    400088: Hinge 25
+    400090: Hinge 26
+    400092: Hinge 27
+    400094: Hinge 28
+    400096: Hinge 29
+    400098: Hinge 3
+    400100: Hinge 30
+    400102: Hinge 31
+    400104: Hinge 32
+    400106: Hinge 33
+    400108: Hinge 34
+    400110: Hinge 35
+    400112: Hinge 36
+    400114: Hinge 37
+    400116: Hinge 38
+    400118: Hinge 39
+    400120: Hinge 4
+    400122: Hinge 40
+    400124: Hinge 41
+    400126: Hinge 42
+    400128: Hinge 43
+    400130: Hinge 44
+    400132: Hinge 45
+    400134: Hinge 46
+    400136: Hinge 47
+    400138: Hinge 48
+    400140: Hinge 49
+    400142: Hinge 5
+    400144: Hinge 50
+    400146: Hinge 51
+    400148: Hinge 52
+    400150: Hinge 53
+    400152: Hinge 54
+    400154: Hinge 55
+    400156: Hinge 56
+    400158: Hinge 57
+    400160: Hinge 58
+    400162: Hinge 59
+    400164: Hinge 6
+    400166: Hinge 60
+    400168: Hinge 61
+    400170: Hinge 62
+    400172: Hinge 63
+    400174: Hinge 64
+    400176: Hinge 65
+    400178: Hinge 66
+    400180: Hinge 67
+    400182: Hinge 68
+    400184: Hinge 69
+    400186: Hinge 7
+    400188: Hinge 70
+    400190: Hinge 71
+    400192: Hinge 72
+    400194: Hinge 73
+    400196: Hinge 74
+    400198: Hinge 75
+    400200: Hinge 76
+    400202: Hinge 77
+    400204: Hinge 78
+    400206: Hinge 79
+    400208: Hinge 8
+    400210: Hinge 80
+    400212: Hinge 81
+    400214: Hinge 82
+    400216: Hinge 83
+    400218: Hinge 84
+    400220: Hinge 85
+    400222: Hinge 86
+    400224: Hinge 87
+    400226: Hinge 88
+    400228: Hinge 89
+    400230: Hinge 9
+    400232: Hinge 90
+    400234: Hinge 91
+    400236: Hinge 92
+    400238: Hinge 93
+    400240: Hinge Plate
+    400242: Hinge Plate 1
+    400244: Hinge Plate 2
+    400246: Hinge Plate 3
+    400248: Key Rack
+    400250: keyboardd
+    400252: keyboardd 1
+    400254: Legs
+    400256: Legs 1
+    400258: Lid Section Front Open
+    400260: Lid Section Rear
+    400262: Main Cabinet
+    400264: pedalboard
+    400266: Piano Stool
+    400268: Stool Leg
+    400270: Stool Leg 1
+    400272: Stool Leg 2
+    400274: Stool Leg 3
+    400276: Stool Seat
+    400278: swiitchh
+    400280: swiitchh 1
+    400282: Toggle
+    400284: Toggle 1
+    400286: Toggle 2
+    400288: Toggle 3
+    400290: Toggle 4
+    400292: Toggle 5
+    400294: Toggle 6
+    400296: Top Hinge
+    400298: Top Leg
+    400300: Top Leg 1
+    400302: Top Leg 2
+    400304: Top Leg 3
+    400306: Top Leg 4
+    400308: Top Leg 5
+    400310: Top Leg 6
+    400312: Top Leg 7
+    400314: Upper Keys Face Cover
+    400316: white db
+    400318: white db 1
+    2300000: draw barrs
+    2300002: drawbars
+    2300004: 'expression pedal '
+    2300006: Fader Trim Cover
+    2300008: Footing
+    2300010: Footing 1
+    2300012: Footing 2
+    2300014: Footing 3
+    2300016: Footing 4
+    2300018: Footing 5
+    2300020: Footing 6
+    2300022: Footing 7
+    2300024: Front Key Cover Open
+    2300026: Group 262
+    2300028: Group 264
+    2300030: Group 268
+    2300032: Group 389
+    2300034: Group 391
+    2300036: Group 393
+    2300038: Group 395
+    2300040: Group 397
+    2300042: Group 399
+    2300044: Group 401
+    2300046: Group#26
+    2300048: //RootNode
+    2300050: Hinge
+    2300052: Hinge 1
+    2300054: Hinge 10
+    2300056: Hinge 11
+    2300058: Hinge 12
+    2300060: Hinge 13
+    2300062: Hinge 14
+    2300064: Hinge 15
+    2300066: Hinge 16
+    2300068: Hinge 17
+    2300070: Hinge 18
+    2300072: Hinge 19
+    2300074: Hinge 2
+    2300076: Hinge 20
+    2300078: Hinge 21
+    2300080: Hinge 22
+    2300082: Hinge 23
+    2300084: Hinge 24
+    2300086: Hinge 25
+    2300088: Hinge 26
+    2300090: Hinge 27
+    2300092: Hinge 28
+    2300094: Hinge 29
+    2300096: Hinge 3
+    2300098: Hinge 30
+    2300100: Hinge 31
+    2300102: Hinge 32
+    2300104: Hinge 33
+    2300106: Hinge 34
+    2300108: Hinge 35
+    2300110: Hinge 36
+    2300112: Hinge 37
+    2300114: Hinge 38
+    2300116: Hinge 39
+    2300118: Hinge 4
+    2300120: Hinge 40
+    2300122: Hinge 41
+    2300124: Hinge 42
+    2300126: Hinge 43
+    2300128: Hinge 44
+    2300130: Hinge 45
+    2300132: Hinge 46
+    2300134: Hinge 47
+    2300136: Hinge 48
+    2300138: Hinge 49
+    2300140: Hinge 5
+    2300142: Hinge 50
+    2300144: Hinge 51
+    2300146: Hinge 52
+    2300148: Hinge 53
+    2300150: Hinge 54
+    2300152: Hinge 55
+    2300154: Hinge 56
+    2300156: Hinge 57
+    2300158: Hinge 58
+    2300160: Hinge 59
+    2300162: Hinge 6
+    2300164: Hinge 60
+    2300166: Hinge 61
+    2300168: Hinge 62
+    2300170: Hinge 63
+    2300172: Hinge 64
+    2300174: Hinge 65
+    2300176: Hinge 66
+    2300178: Hinge 67
+    2300180: Hinge 68
+    2300182: Hinge 69
+    2300184: Hinge 7
+    2300186: Hinge 70
+    2300188: Hinge 71
+    2300190: Hinge 72
+    2300192: Hinge 73
+    2300194: Hinge 74
+    2300196: Hinge 75
+    2300198: Hinge 76
+    2300200: Hinge 77
+    2300202: Hinge 78
+    2300204: Hinge 79
+    2300206: Hinge 8
+    2300208: Hinge 80
+    2300210: Hinge 81
+    2300212: Hinge 82
+    2300214: Hinge 83
+    2300216: Hinge 84
+    2300218: Hinge 85
+    2300220: Hinge 86
+    2300222: Hinge 87
+    2300224: Hinge 88
+    2300226: Hinge 89
+    2300228: Hinge 9
+    2300230: Hinge 90
+    2300232: Hinge 91
+    2300234: Hinge 92
+    2300236: Hinge 93
+    2300238: Hinge Plate
+    2300240: Hinge Plate 1
+    2300242: Hinge Plate 2
+    2300244: Hinge Plate 3
+    2300246: Key Rack
+    2300248: keyboardd
+    2300250: keyboardd 1
+    2300252: Legs
+    2300254: Legs 1
+    2300256: Lid Section Front Open
+    2300258: Lid Section Rear
+    2300260: Main Cabinet
+    2300262: pedalboard
+    2300264: Piano Stool
+    2300266: Stool Leg
+    2300268: Stool Leg 1
+    2300270: Stool Leg 2
+    2300272: Stool Leg 3
+    2300274: Stool Seat
+    2300276: swiitchh
+    2300278: swiitchh 1
+    2300280: Toggle
+    2300282: Toggle 1
+    2300284: Toggle 2
+    2300286: Toggle 3
+    2300288: Toggle 4
+    2300290: Toggle 5
+    2300292: Toggle 6
+    2300294: Top Leg
+    2300296: Top Leg 1
+    2300298: Top Leg 2
+    2300300: Top Leg 3
+    2300302: Top Leg 4
+    2300304: Top Leg 5
+    2300306: Top Leg 6
+    2300308: Top Leg 7
+    2300310: Upper Keys Face Cover
+    2300312: white db
+    2300314: white db 1
+    3300000: draw barrs
+    3300002: drawbars
+    3300004: 'expression pedal '
+    3300006: Fader Trim Cover
+    3300008: Footing
+    3300010: Footing 1
+    3300012: Footing 2
+    3300014: Footing 3
+    3300016: Footing 4
+    3300018: Footing 5
+    3300020: Footing 6
+    3300022: Footing 7
+    3300024: Front Key Cover Open
+    3300026: Group 262
+    3300028: Group 264
+    3300030: Group 268
+    3300032: Group 389
+    3300034: Group 391
+    3300036: Group 393
+    3300038: Group 395
+    3300040: Group 397
+    3300042: Group 399
+    3300044: Group 401
+    3300046: Group#26
+    3300048: //RootNode
+    3300050: Hinge
+    3300052: Hinge 1
+    3300054: Hinge 10
+    3300056: Hinge 11
+    3300058: Hinge 12
+    3300060: Hinge 13
+    3300062: Hinge 14
+    3300064: Hinge 15
+    3300066: Hinge 16
+    3300068: Hinge 17
+    3300070: Hinge 18
+    3300072: Hinge 19
+    3300074: Hinge 2
+    3300076: Hinge 20
+    3300078: Hinge 21
+    3300080: Hinge 22
+    3300082: Hinge 23
+    3300084: Hinge 24
+    3300086: Hinge 25
+    3300088: Hinge 26
+    3300090: Hinge 27
+    3300092: Hinge 28
+    3300094: Hinge 29
+    3300096: Hinge 3
+    3300098: Hinge 30
+    3300100: Hinge 31
+    3300102: Hinge 32
+    3300104: Hinge 33
+    3300106: Hinge 34
+    3300108: Hinge 35
+    3300110: Hinge 36
+    3300112: Hinge 37
+    3300114: Hinge 38
+    3300116: Hinge 39
+    3300118: Hinge 4
+    3300120: Hinge 40
+    3300122: Hinge 41
+    3300124: Hinge 42
+    3300126: Hinge 43
+    3300128: Hinge 44
+    3300130: Hinge 45
+    3300132: Hinge 46
+    3300134: Hinge 47
+    3300136: Hinge 48
+    3300138: Hinge 49
+    3300140: Hinge 5
+    3300142: Hinge 50
+    3300144: Hinge 51
+    3300146: Hinge 52
+    3300148: Hinge 53
+    3300150: Hinge 54
+    3300152: Hinge 55
+    3300154: Hinge 56
+    3300156: Hinge 57
+    3300158: Hinge 58
+    3300160: Hinge 59
+    3300162: Hinge 6
+    3300164: Hinge 60
+    3300166: Hinge 61
+    3300168: Hinge 62
+    3300170: Hinge 63
+    3300172: Hinge 64
+    3300174: Hinge 65
+    3300176: Hinge 66
+    3300178: Hinge 67
+    3300180: Hinge 68
+    3300182: Hinge 69
+    3300184: Hinge 7
+    3300186: Hinge 70
+    3300188: Hinge 71
+    3300190: Hinge 72
+    3300192: Hinge 73
+    3300194: Hinge 74
+    3300196: Hinge 75
+    3300198: Hinge 76
+    3300200: Hinge 77
+    3300202: Hinge 78
+    3300204: Hinge 79
+    3300206: Hinge 8
+    3300208: Hinge 80
+    3300210: Hinge 81
+    3300212: Hinge 82
+    3300214: Hinge 83
+    3300216: Hinge 84
+    3300218: Hinge 85
+    3300220: Hinge 86
+    3300222: Hinge 87
+    3300224: Hinge 88
+    3300226: Hinge 89
+    3300228: Hinge 9
+    3300230: Hinge 90
+    3300232: Hinge 91
+    3300234: Hinge 92
+    3300236: Hinge 93
+    3300238: Hinge Plate
+    3300240: Hinge Plate 1
+    3300242: Hinge Plate 2
+    3300244: Hinge Plate 3
+    3300246: Key Rack
+    3300248: keyboardd
+    3300250: keyboardd 1
+    3300252: Legs
+    3300254: Legs 1
+    3300256: Lid Section Front Open
+    3300258: Lid Section Rear
+    3300260: Main Cabinet
+    3300262: pedalboard
+    3300264: Piano Stool
+    3300266: Stool Leg
+    3300268: Stool Leg 1
+    3300270: Stool Leg 2
+    3300272: Stool Leg 3
+    3300274: Stool Seat
+    3300276: swiitchh
+    3300278: swiitchh 1
+    3300280: Toggle
+    3300282: Toggle 1
+    3300284: Toggle 2
+    3300286: Toggle 3
+    3300288: Toggle 4
+    3300290: Toggle 5
+    3300292: Toggle 6
+    3300294: Top Leg
+    3300296: Top Leg 1
+    3300298: Top Leg 2
+    3300300: Top Leg 3
+    3300302: Top Leg 4
+    3300304: Top Leg 5
+    3300306: Top Leg 6
+    3300308: Top Leg 7
+    3300310: Upper Keys Face Cover
+    3300312: white db
+    3300314: white db 1
+    4300000: Mesh Hammond B3
+    4300002: Mesh Key Rack
+    4300004: Mesh Fader Trim Cover
+    4300006: Mesh Toggle
+    4300008: Mesh Toggle
+    4300010: Mesh Toggle
+    4300012: Mesh Main Cabinet
+    4300014: Mesh Lid Section Front Open
+    4300016: Mesh Upper Keys Face Cover
+    4300018: Mesh Hinge Plate
+    4300020: Mesh Hinge Plate
+    4300022: Mesh Lid Section Rear
+    4300024: Mesh Front Key Cover Open
+    4300026: Mesh Hinge Plate
+    4300028: Mesh Hinge Plate
+    4300030: Mesh Hinge
+    4300032: Mesh Hinge
+    4300034: Mesh Legs
+    4300036: Mesh Footing
+    4300038: Mesh Top Leg
+    4300040: Mesh Top Leg
+    4300042: Mesh Piano Stool
+    4300044: Mesh Group 262
+    4300046: Mesh Group 264
+    4300048: Mesh Stool Seat
+    4300050: Mesh Stool Leg
+    4300052: Mesh pedalboard
+    4300054: Mesh Group 389
+    4300056: Mesh Group 391
+    4300058: Mesh Group 393
+    4300060: Mesh Group 395
+    4300062: Mesh Group 397
+    4300064: Mesh Group 399
+    4300066: Mesh Group 401
+    4300068: 'Mesh expression pedal '
+    4300070: Mesh keyboardd
+    4300072: Mesh draw barrs
+    4300074: Mesh white db
+    4300076: Mesh drawbars
+    4300078: Mesh Group#26
+    4300080: Mesh swiitchh
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

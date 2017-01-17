@@ -1,0 +1,359 @@
+fileFormatVersion: 2
+guid: 48fd329f842945943ad6d90ab4c75d6e
+timeCreated: 1484614912
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c000000
+  assetHash:
+    serializedVersion: 2
+    Hash: c3c49103c70c2f59156b03fd33942918
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 3.3404956, y: 1.8242682, z: -1.7297289}
+      lookAt: {x: 0.72067535, y: 0.6982981, z: 0.7297418}
+      up: {x: -0.21799769, y: 0.9542502, z: 0.20465484}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Component#1
+    100002: Component#1 1
+    100004: Component#1 2
+    100006: Component#1 3
+    100008: Component#2
+    100010: Component#2 1
+    100012: Component#3
+    100014: Component#3 1
+    100016: Component#4
+    100018: Component#5
+    100020: foot pedal
+    100022: foot pedal 1
+    100024: foot pedal 2
+    100026: Grand piano
+    100028: Grand Piano With Bench
+    100030: //RootNode
+    100032: Group 4
+    100034: Group 88
+    100036: key
+    100038: key 1
+    100040: key 10
+    100042: key 11
+    100044: key 12
+    100046: key 13
+    100048: key 14
+    100050: key 15
+    100052: key 16
+    100054: key 17
+    100056: key 18
+    100058: key 19
+    100060: key 2
+    100062: key 20
+    100064: key 21
+    100066: key 22
+    100068: key 23
+    100070: key 24
+    100072: key 25
+    100074: key 26
+    100076: key 27
+    100078: key 28
+    100080: key 29
+    100082: key 3
+    100084: key 30
+    100086: key 31
+    100088: key 32
+    100090: key 33
+    100092: key 34
+    100094: key 35
+    100096: key 36
+    100098: key 37
+    100100: key 38
+    100102: key 39
+    100104: key 4
+    100106: key 5
+    100108: key 6
+    100110: key 7
+    100112: key 8
+    100114: key 9
+    100116: keys
+    100118: leg
+    100120: leg 1
+    100122: leg 2
+    100124: Music Place
+    100126: Piano Bench
+    400000: Component#1
+    400002: Component#1 1
+    400004: Component#1 2
+    400006: Component#1 3
+    400008: Component#2
+    400010: Component#2 1
+    400012: Component#3
+    400014: Component#3 1
+    400016: Component#4
+    400018: Component#5
+    400020: foot pedal
+    400022: foot pedal 1
+    400024: foot pedal 2
+    400026: Grand piano
+    400028: Grand Piano With Bench
+    400030: //RootNode
+    400032: Group 4
+    400034: Group 88
+    400036: key
+    400038: key 1
+    400040: key 10
+    400042: key 11
+    400044: key 12
+    400046: key 13
+    400048: key 14
+    400050: key 15
+    400052: key 16
+    400054: key 17
+    400056: key 18
+    400058: key 19
+    400060: key 2
+    400062: key 20
+    400064: key 21
+    400066: key 22
+    400068: key 23
+    400070: key 24
+    400072: key 25
+    400074: key 26
+    400076: key 27
+    400078: key 28
+    400080: key 29
+    400082: key 3
+    400084: key 30
+    400086: key 31
+    400088: key 32
+    400090: key 33
+    400092: key 34
+    400094: key 35
+    400096: key 36
+    400098: key 37
+    400100: key 38
+    400102: key 39
+    400104: key 4
+    400106: key 5
+    400108: key 6
+    400110: key 7
+    400112: key 8
+    400114: key 9
+    400116: keys
+    400118: leg
+    400120: leg 1
+    400122: leg 2
+    400124: Music Place
+    400126: Piano Bench
+    2300000: Component#1
+    2300002: Component#1 1
+    2300004: Component#1 2
+    2300006: Component#1 3
+    2300008: Component#2
+    2300010: Component#2 1
+    2300012: Component#3
+    2300014: Component#3 1
+    2300016: Component#4
+    2300018: Component#5
+    2300020: foot pedal
+    2300022: foot pedal 1
+    2300024: foot pedal 2
+    2300026: Grand piano
+    2300028: Group 4
+    2300030: Group 88
+    2300032: key
+    2300034: key 1
+    2300036: key 10
+    2300038: key 11
+    2300040: key 12
+    2300042: key 13
+    2300044: key 14
+    2300046: key 15
+    2300048: key 16
+    2300050: key 17
+    2300052: key 18
+    2300054: key 19
+    2300056: key 2
+    2300058: key 20
+    2300060: key 21
+    2300062: key 22
+    2300064: key 23
+    2300066: key 24
+    2300068: key 25
+    2300070: key 26
+    2300072: key 27
+    2300074: key 28
+    2300076: key 29
+    2300078: key 3
+    2300080: key 30
+    2300082: key 31
+    2300084: key 32
+    2300086: key 33
+    2300088: key 34
+    2300090: key 35
+    2300092: key 36
+    2300094: key 37
+    2300096: key 38
+    2300098: key 39
+    2300100: key 4
+    2300102: key 5
+    2300104: key 6
+    2300106: key 7
+    2300108: key 8
+    2300110: key 9
+    2300112: keys
+    2300114: leg
+    2300116: leg 1
+    2300118: leg 2
+    2300120: Music Place
+    3300000: Component#1
+    3300002: Component#1 1
+    3300004: Component#1 2
+    3300006: Component#1 3
+    3300008: Component#2
+    3300010: Component#2 1
+    3300012: Component#3
+    3300014: Component#3 1
+    3300016: Component#4
+    3300018: Component#5
+    3300020: foot pedal
+    3300022: foot pedal 1
+    3300024: foot pedal 2
+    3300026: Grand piano
+    3300028: Group 4
+    3300030: Group 88
+    3300032: key
+    3300034: key 1
+    3300036: key 10
+    3300038: key 11
+    3300040: key 12
+    3300042: key 13
+    3300044: key 14
+    3300046: key 15
+    3300048: key 16
+    3300050: key 17
+    3300052: key 18
+    3300054: key 19
+    3300056: key 2
+    3300058: key 20
+    3300060: key 21
+    3300062: key 22
+    3300064: key 23
+    3300066: key 24
+    3300068: key 25
+    3300070: key 26
+    3300072: key 27
+    3300074: key 28
+    3300076: key 29
+    3300078: key 3
+    3300080: key 30
+    3300082: key 31
+    3300084: key 32
+    3300086: key 33
+    3300088: key 34
+    3300090: key 35
+    3300092: key 36
+    3300094: key 37
+    3300096: key 38
+    3300098: key 39
+    3300100: key 4
+    3300102: key 5
+    3300104: key 6
+    3300106: key 7
+    3300108: key 8
+    3300110: key 9
+    3300112: keys
+    3300114: leg
+    3300116: leg 1
+    3300118: leg 2
+    3300120: Music Place
+    4300000: Mesh Grand piano
+    4300002: Mesh Group 4
+    4300004: Mesh keys
+    4300006: Mesh key
+    4300008: Mesh Group 88
+    4300010: Mesh leg
+    4300012: Mesh foot pedal
+    4300014: Mesh foot pedal
+    4300016: Mesh Music Place
+    4300018: Mesh Component#1
+    4300020: Mesh Component#2
+    4300022: Mesh Component#3
+    4300024: Mesh Component#4
+    4300026: Mesh Component#5
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,425 @@
+fileFormatVersion: 2
+guid: 46385e43320ab0e46946b86566158014
+timeCreated: 1484614911
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e000000
+  assetHash:
+    serializedVersion: 2
+    Hash: b3518e30912b29c6b3a016ee6b66a7d8
+  longitude: 12.5
+  latitude: 41.883
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -1.7195799, y: 3.7860107, z: -8.332184}
+      lookAt: {x: -0.9609568, y: 3.3160856, z: -7.031798}
+      up: {x: 0.15014395, y: 0.95457774, z: 0.2573677}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Componente#1
+    100002: Componente#3
+    100004: Group 11
+    100006: Group 13
+    100008: Group 15
+    100010: Group 17
+    100012: Group 19
+    100014: Group 21
+    100016: Group 23
+    100018: Group 25
+    100020: Group 27
+    100022: Group 3
+    100024: Group 5
+    100026: Group 7
+    100028: Group 9
+    100030: Group#78
+    100032: Group#83
+    100034: key
+    100036: key 1
+    100038: key 10
+    100040: key 11
+    100042: key 12
+    100044: key 13
+    100046: key 14
+    100048: key 15
+    100050: key 16
+    100052: key 17
+    100054: key 18
+    100056: key 19
+    100058: key 2
+    100060: key 20
+    100062: key 21
+    100064: key 22
+    100066: key 23
+    100068: key 24
+    100070: key 25
+    100072: key 26
+    100074: key 27
+    100076: key 28
+    100078: key 29
+    100080: key 3
+    100082: key 30
+    100084: key 31
+    100086: key 32
+    100088: key 33
+    100090: key 34
+    100092: key 35
+    100094: key 36
+    100096: key 37
+    100098: key 38
+    100100: key 39
+    100102: key 4
+    100104: key 40
+    100106: key 41
+    100108: key 42
+    100110: key 43
+    100112: key 44
+    100114: key 45
+    100116: key 46
+    100118: key 47
+    100120: key 48
+    100122: key 49
+    100124: key 5
+    100126: key 50
+    100128: key 51
+    100130: key 52
+    100132: key 53
+    100134: key 54
+    100136: key 55
+    100138: key 56
+    100140: key 57
+    100142: key 58
+    100144: key 59
+    100146: key 6
+    100148: key 60
+    100150: key 7
+    100152: key 8
+    100154: key 9
+    100156: marimba keys
+    100158: Vibrafono
+    100160: //RootNode
+    400000: Componente#1
+    400002: Componente#3
+    400004: Group 11
+    400006: Group 13
+    400008: Group 15
+    400010: Group 17
+    400012: Group 19
+    400014: Group 21
+    400016: Group 23
+    400018: Group 25
+    400020: Group 27
+    400022: Group 3
+    400024: Group 5
+    400026: Group 7
+    400028: Group 9
+    400030: Group#78
+    400032: Group#83
+    400034: key
+    400036: key 1
+    400038: key 10
+    400040: key 11
+    400042: key 12
+    400044: key 13
+    400046: key 14
+    400048: key 15
+    400050: key 16
+    400052: key 17
+    400054: key 18
+    400056: key 19
+    400058: key 2
+    400060: key 20
+    400062: key 21
+    400064: key 22
+    400066: key 23
+    400068: key 24
+    400070: key 25
+    400072: key 26
+    400074: key 27
+    400076: key 28
+    400078: key 29
+    400080: key 3
+    400082: key 30
+    400084: key 31
+    400086: key 32
+    400088: key 33
+    400090: key 34
+    400092: key 35
+    400094: key 36
+    400096: key 37
+    400098: key 38
+    400100: key 39
+    400102: key 4
+    400104: key 40
+    400106: key 41
+    400108: key 42
+    400110: key 43
+    400112: key 44
+    400114: key 45
+    400116: key 46
+    400118: key 47
+    400120: key 48
+    400122: key 49
+    400124: key 5
+    400126: key 50
+    400128: key 51
+    400130: key 52
+    400132: key 53
+    400134: key 54
+    400136: key 55
+    400138: key 56
+    400140: key 57
+    400142: key 58
+    400144: key 59
+    400146: key 6
+    400148: key 60
+    400150: key 7
+    400152: key 8
+    400154: key 9
+    400156: marimba keys
+    400158: Vibrafono
+    400160: //RootNode
+    2300000: Componente#1
+    2300002: Group 11
+    2300004: Group 13
+    2300006: Group 15
+    2300008: Group 17
+    2300010: Group 19
+    2300012: Group 21
+    2300014: Group 23
+    2300016: Group 25
+    2300018: Group 27
+    2300020: Group 3
+    2300022: Group 5
+    2300024: Group 7
+    2300026: Group 9
+    2300028: Group#78
+    2300030: Group#83
+    2300032: key
+    2300034: key 1
+    2300036: key 10
+    2300038: key 11
+    2300040: key 12
+    2300042: key 13
+    2300044: key 14
+    2300046: key 15
+    2300048: key 16
+    2300050: key 17
+    2300052: key 18
+    2300054: key 19
+    2300056: key 2
+    2300058: key 20
+    2300060: key 21
+    2300062: key 22
+    2300064: key 23
+    2300066: key 24
+    2300068: key 25
+    2300070: key 26
+    2300072: key 27
+    2300074: key 28
+    2300076: key 29
+    2300078: key 3
+    2300080: key 30
+    2300082: key 31
+    2300084: key 32
+    2300086: key 33
+    2300088: key 34
+    2300090: key 35
+    2300092: key 36
+    2300094: key 37
+    2300096: key 38
+    2300098: key 39
+    2300100: key 4
+    2300102: key 40
+    2300104: key 41
+    2300106: key 42
+    2300108: key 43
+    2300110: key 44
+    2300112: key 45
+    2300114: key 46
+    2300116: key 47
+    2300118: key 48
+    2300120: key 49
+    2300122: key 5
+    2300124: key 50
+    2300126: key 51
+    2300128: key 52
+    2300130: key 53
+    2300132: key 54
+    2300134: key 55
+    2300136: key 56
+    2300138: key 57
+    2300140: key 58
+    2300142: key 59
+    2300144: key 6
+    2300146: key 60
+    2300148: key 7
+    2300150: key 8
+    2300152: key 9
+    2300154: Vibrafono
+    3300000: Componente#1
+    3300002: Group 11
+    3300004: Group 13
+    3300006: Group 15
+    3300008: Group 17
+    3300010: Group 19
+    3300012: Group 21
+    3300014: Group 23
+    3300016: Group 25
+    3300018: Group 27
+    3300020: Group 3
+    3300022: Group 5
+    3300024: Group 7
+    3300026: Group 9
+    3300028: Group#78
+    3300030: Group#83
+    3300032: key
+    3300034: key 1
+    3300036: key 10
+    3300038: key 11
+    3300040: key 12
+    3300042: key 13
+    3300044: key 14
+    3300046: key 15
+    3300048: key 16
+    3300050: key 17
+    3300052: key 18
+    3300054: key 19
+    3300056: key 2
+    3300058: key 20
+    3300060: key 21
+    3300062: key 22
+    3300064: key 23
+    3300066: key 24
+    3300068: key 25
+    3300070: key 26
+    3300072: key 27
+    3300074: key 28
+    3300076: key 29
+    3300078: key 3
+    3300080: key 30
+    3300082: key 31
+    3300084: key 32
+    3300086: key 33
+    3300088: key 34
+    3300090: key 35
+    3300092: key 36
+    3300094: key 37
+    3300096: key 38
+    3300098: key 39
+    3300100: key 4
+    3300102: key 40
+    3300104: key 41
+    3300106: key 42
+    3300108: key 43
+    3300110: key 44
+    3300112: key 45
+    3300114: key 46
+    3300116: key 47
+    3300118: key 48
+    3300120: key 49
+    3300122: key 5
+    3300124: key 50
+    3300126: key 51
+    3300128: key 52
+    3300130: key 53
+    3300132: key 54
+    3300134: key 55
+    3300136: key 56
+    3300138: key 57
+    3300140: key 58
+    3300142: key 59
+    3300144: key 6
+    3300146: key 60
+    3300148: key 7
+    3300150: key 8
+    3300152: key 9
+    3300154: Vibrafono
+    4300000: Mesh Vibrafono
+    4300002: Mesh Group 3
+    4300004: Mesh Group 5
+    4300006: Mesh Group 11
+    4300008: Mesh Group 13
+    4300010: Mesh Group 19
+    4300012: Mesh Group 25
+    4300014: Mesh Group 27
+    4300016: Mesh Componente#1
+    4300018: Mesh key
+    4300020: Mesh Group#78
+    4300022: Mesh Group#83
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
