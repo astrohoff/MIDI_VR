@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Left Stick
   - Right Stick
+  - Striker
+  - Fret
   layers:
   - Default
   - TransparentFX

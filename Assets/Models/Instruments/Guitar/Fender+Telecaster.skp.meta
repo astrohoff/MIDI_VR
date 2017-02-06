@@ -1,0 +1,1490 @@
+fileFormatVersion: 2
+guid: c12ac1826b75f2c43b1ef3aa5cf82178
+timeCreated: 1486158315
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 0000000001000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000690000006a0000006b0000006c0000006d0000006e0000006f000000700000007100000072000000730000007400000075000000760000007700000078000000790000007a0000007b0000007c0000007d0000007e0000007f000000800000008100000082000000830000008400000085000000860000008700000088000000890000008a0000008b0000008c0000008d0000008e0000008f000000900000009100000092000000930000009400000095000000960000009700000098000000990000009a0000009b0000009c0000009d0000009e0000009f000000a0000000a1000000a2000000a3000000a4000000a5000000a6000000a7000000a8000000a9000000aa000000ab000000ac000000ad000000ae000000af000000b0000000b1000000b2000000b3000000b4000000b5000000b6000000b7000000b8000000b9000000ba000000bb000000bc000000bd000000be000000bf000000c0000000c1000000c2000000c3000000c4000000c5000000c6000000c7000000c8000000c9000000ca000000cb000000cc000000cd000000ce000000cf000000d0000000d1000000d2000000d3000000d4000000d5000000d6000000d7000000d8000000d9000000da000000db000000dc000000dd000000de000000df000000e0000000e1000000e2000000e3000000e4000000e5000000e6000000e7000000e8000000e9000000ea000000eb000000ec000000ed000000ee000000ef000000f0000000f1000000f2000000f3000000f4000000f5000000f6000000f7000000f8000000f9000000fa000000fb000000fc000000fd000000fe000000ff000000000100000101000002010000030100000401000005010000060100000701000008010000090100000a0100000b0100000c0100000d0100000e0100000f010000100100001101000012010000130100001401000015010000160100001701000018010000190100001a0100001b0100001c0100001d0100001e0100001f010000200100002101000022010000230100002401000025010000260100002701000028010000290100002a0100002b0100002c0100002d0100002e0100002f010000300100003101000032010000330100003401000035010000360100003701000038010000390100003a0100003b0100003c0100003d0100003e0100003f010000400100004101000042010000430100004401000045010000460100004701000048010000490100004a0100004b0100004c0100004d0100004e0100004f010000500100005101000052010000530100005401000055010000560100005701000058010000590100005a0100005b0100005c0100005d0100005e0100005f010000600100006101000062010000630100006401000065010000660100006701000068010000690100006a0100006b0100006c0100006d0100006e0100006f010000700100007101000072010000730100007401000075010000760100007701000078010000790100007a0100007b0100007c0100007d0100007e0100007f010000800100008101000082010000830100008401000085010000860100008701000088010000890100008a0100008b0100008c0100008d0100008e0100008f010000900100009101000092010000930100009401000095010000960100009701000098010000990100009a0100009b0100009c0100009d0100009e0100009f010000a0010000a1010000a2010000a3010000a4010000a5010000a6010000a7010000a8010000a9010000aa010000ab010000ac010000ad010000ae010000af010000b0010000b1010000b2010000b3010000b4010000b5010000b6010000b7010000b8010000b9010000ba010000bb010000bc010000bd010000be010000bf010000c0010000c1010000c2010000c3010000c4010000c5010000c6010000c7010000c8010000c9010000ca010000cb010000cc010000cd010000ce010000cf010000d0010000d1010000d2010000d3010000d4010000d5010000d6010000d7010000d8010000d9010000da010000db010000dc010000dd010000de010000df010000e0010000e1010000e2010000e3010000e4010000e5010000e6010000e7010000e8010000e9010000ea010000eb010000ec010000ed010000ee010000ef010000f0010000f1010000f2010000f3010000f4010000f5010000f6010000f7010000f8010000f9010000fa010000fb010000fc010000fd010000fe010000ff010000000200000102000002020000030200000402000005020000060200000702000008020000090200000a0200000b0200000c0200000d0200000e0200000f020000100200001102000012020000130200001402000015020000160200001702000018020000190200001a0200001b0200001c0200001d0200001e0200001f020000200200002102000022020000230200002402000025020000260200002702000028020000290200002a0200002b0200002c0200002d0200002e0200002f020000300200003102000032020000330200003402000035020000360200003702000038020000390200003a0200003b0200003c0200003d0200003e0200003f020000400200004102000042020000430200004402000045020000460200004702000048020000490200004a0200004b0200004c0200004d0200004e0200004f020000500200005102000052020000530200005402000055020000560200005702000058020000590200005a0200005b0200005c0200005d0200005e0200005f020000600200006102000062020000630200006402000065020000660200006702000068020000690200006a0200006b0200006c0200006d0200006e0200006f020000700200007102000072020000730200007402000075020000760200007702000078020000790200007a0200007b0200007c0200007d0200007e0200007f020000800200008102000082020000830200008402000085020000860200008702000088020000890200008a0200008b0200008c0200008d0200008e0200008f020000900200009102000092020000930200009402000095020000960200009702000098020000990200009a020000
+  assetHash:
+    serializedVersion: 2
+    Hash: 76a91eb4061c5e2d47a6165b6ca00ddc
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 0.5208642, y: -0.4517932, z: -0.40683088}
+      lookAt: {x: -7.040206, y: 19.872498, z: 11.079434}
+      up: {x: 0.45539132, y: 0.56038564, z: -0.6917997}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: BigScrew
+    100002: BigScrew 1
+    100004: BigScrew 10
+    100006: BigScrew 11
+    100008: BigScrew 2
+    100010: BigScrew 3
+    100012: BigScrew 4
+    100014: BigScrew 5
+    100016: BigScrew 6
+    100018: BigScrew 7
+    100020: BigScrew 8
+    100022: BigScrew 9
+    100024: 'Created by: Brad#1'
+    100026: //RootNode
+    100028: Group 11
+    100030: Group 117
+    100032: Group 119
+    100034: Group 121
+    100036: Group 123
+    100038: Group 125
+    100040: Group 127
+    100042: Group 129
+    100044: Group 13
+    100046: Group 131
+    100048: Group 133
+    100050: Group 135
+    100052: Group 137
+    100054: Group 140
+    100056: Group 144
+    100058: Group 148
+    100060: Group 15
+    100062: Group 154
+    100064: Group 160
+    100066: Group 164
+    100068: Group 17
+    100070: Group 172
+    100072: Group 176
+    100074: Group 180
+    100076: Group 188
+    100078: Group 19
+    100080: Group 192
+    100082: Group 198
+    100084: Group 200
+    100086: Group 201
+    100088: Group 202
+    100090: Group 204
+    100092: Group 206
+    100094: Group 208
+    100096: Group 21
+    100098: Group 210
+    100100: Group 23
+    100102: Group 25
+    100104: Group 253
+    100106: Group 255
+    100108: Group 257
+    100110: Group 262
+    100112: Group 264
+    100114: Group 266
+    100116: Group 268
+    100118: Group 27
+    100120: Group 270
+    100122: Group 272
+    100124: Group 274
+    100126: Group 276
+    100128: Group 278
+    100130: Group 280
+    100132: Group 282
+    100134: Group 284
+    100136: Group 286
+    100138: Group 288
+    100140: Group 29
+    100142: Group 290
+    100144: Group 291
+    100146: Group 293
+    100148: Group 295
+    100150: Group 297
+    100152: Group 299
+    100154: Group 300
+    100156: Group 302
+    100158: Group 304
+    100160: Group 306
+    100162: Group 308
+    100164: Group 309
+    100166: Group 31
+    100168: Group 311
+    100170: Group 313
+    100172: Group 315
+    100174: Group 317
+    100176: Group 318
+    100178: Group 32
+    100180: Group 320
+    100182: Group 322
+    100184: Group 324
+    100186: Group 326
+    100188: Group 327
+    100190: Group 329
+    100192: Group 331
+    100194: Group 333
+    100196: Group 335
+    100198: Group 336
+    100200: Group 338
+    100202: Group 340
+    100204: Group 342
+    100206: Group 344
+    100208: Group 346
+    100210: Group 348
+    100212: Group 350
+    100214: Group 352
+    100216: Group 354
+    100218: Group 355
+    100220: Group 357
+    100222: Group 359
+    100224: Group 36
+    100226: Group 369
+    100228: Group 37
+    100230: Group 370
+    100232: Group 371
+    100234: Group 373
+    100236: Group 375
+    100238: Group 376
+    100240: Group 378
+    100242: Group 380
+    100244: Group 381
+    100246: Group 383
+    100248: Group 385
+    100250: Group 387
+    100252: Group 391
+    100254: Group 392
+    100256: Group 393
+    100258: Group 395
+    100260: Group 397
+    100262: Group 398
+    100264: Group 400
+    100266: Group 402
+    100268: Group 403
+    100270: Group 405
+    100272: Group 407
+    100274: Group 409
+    100276: Group 41
+    100278: Group 413
+    100280: Group 414
+    100282: Group 415
+    100284: Group 417
+    100286: Group 419
+    100288: Group 420
+    100290: Group 422
+    100292: Group 424
+    100294: Group 425
+    100296: Group 427
+    100298: Group 429
+    100300: Group 43
+    100302: Group 431
+    100304: Group 435
+    100306: Group 436
+    100308: Group 437
+    100310: Group 439
+    100312: Group 441
+    100314: Group 442
+    100316: Group 444
+    100318: Group 446
+    100320: Group 447
+    100322: Group 449
+    100324: Group 451
+    100326: Group 453
+    100328: Group 457
+    100330: Group 458
+    100332: Group 459
+    100334: Group 461
+    100336: Group 463
+    100338: Group 464
+    100340: Group 466
+    100342: Group 468
+    100344: Group 469
+    100346: Group 471
+    100348: Group 473
+    100350: Group 475
+    100352: Group 479
+    100354: Group 480
+    100356: Group 481
+    100358: Group 483
+    100360: Group 485
+    100362: Group 486
+    100364: Group 488
+    100366: Group 490
+    100368: Group 491
+    100370: Group 493
+    100372: Group 495
+    100374: Group 497
+    100376: Group 527
+    100378: Group 528
+    100380: Group 529
+    100382: Group 531
+    100384: Group 533
+    100386: Group 534
+    100388: Group 536
+    100390: Group 538
+    100392: Group 539
+    100394: Group 541
+    100396: Group 543
+    100398: Group 545
+    100400: Group 549
+    100402: Group 550
+    100404: Group 551
+    100406: Group 553
+    100408: Group 555
+    100410: Group 556
+    100412: Group 558
+    100414: Group 560
+    100416: Group 561
+    100418: Group 563
+    100420: Group 565
+    100422: Group 567
+    100424: Group 571
+    100426: Group 572
+    100428: Group 573
+    100430: Group 575
+    100432: Group 577
+    100434: Group 578
+    100436: Group 580
+    100438: Group 582
+    100440: Group 583
+    100442: Group 585
+    100444: Group 587
+    100446: Group 589
+    100448: Group 593
+    100450: Group 594
+    100452: Group 595
+    100454: Group 597
+    100456: Group 599
+    100458: Group 6
+    100460: Group 600
+    100462: Group 602
+    100464: Group 604
+    100466: Group 605
+    100468: Group 607
+    100470: Group 609
+    100472: Group 611
+    100474: Group 615
+    100476: Group 616
+    100478: Group 617
+    100480: Group 619
+    100482: Group 621
+    100484: Group 622
+    100486: Group 624
+    100488: Group 626
+    100490: Group 627
+    100492: Group 629
+    100494: Group 631
+    100496: Group 633
+    100498: Group 637
+    100500: Group 638
+    100502: Group 639
+    100504: Group 641
+    100506: Group 643
+    100508: Group 644
+    100510: Group 646
+    100512: Group 648
+    100514: Group 649
+    100516: Group 651
+    100518: Group 653
+    100520: Group 655
+    100522: Group 7
+    100524: Group 9
+    100526: Group#16
+    100528: Group#16 1
+    100530: Group#16 10
+    100532: Group#16 11
+    100534: Group#16 12
+    100536: Group#16 13
+    100538: Group#16 14
+    100540: Group#16 15
+    100542: Group#16 16
+    100544: Group#16 17
+    100546: Group#16 18
+    100548: Group#16 19
+    100550: Group#16 2
+    100552: Group#16 20
+    100554: Group#16 3
+    100556: Group#16 4
+    100558: Group#16 5
+    100560: Group#16 6
+    100562: Group#16 7
+    100564: Group#16 8
+    100566: Group#16 9
+    100568: grub screw
+    100570: grub screw 1
+    100572: grub screw 10
+    100574: grub screw 11
+    100576: grub screw 12
+    100578: grub screw 13
+    100580: grub screw 14
+    100582: grub screw 15
+    100584: grub screw 16
+    100586: grub screw 17
+    100588: grub screw 2
+    100590: grub screw 3
+    100592: grub screw 4
+    100594: grub screw 5
+    100596: grub screw 6
+    100598: grub screw 7
+    100600: grub screw 8
+    100602: grub screw 9
+    100604: kluson screw
+    100606: kluson screw 1
+    100608: kluson screw 10
+    100610: kluson screw 11
+    100612: kluson screw 12
+    100614: kluson screw 13
+    100616: kluson screw 14
+    100618: kluson screw 15
+    100620: kluson screw 16
+    100622: kluson screw 17
+    100624: kluson screw 18
+    100626: kluson screw 2
+    100628: kluson screw 3
+    100630: kluson screw 4
+    100632: kluson screw 5
+    100634: kluson screw 6
+    100636: kluson screw 7
+    100638: kluson screw 8
+    100640: kluson screw 9
+    100642: kluson screw#1
+    100644: kluson screw#2
+    100646: kluson screw#2 1
+    100648: kluson screw#2 2
+    100650: kluson screw#2 3
+    100652: kluson screw#2 4
+    100654: kluson screw#2 5
+    100656: kluson screw#2 6
+    100658: kluson screw#3
+    100660: kluson screw#3 1
+    100662: kluson screw#3 2
+    100664: kluson screw#3 3
+    100666: kluson screw#3 4
+    100668: kluson screw#3 5
+    100670: kluson screw#3 6
+    100672: kluson-left
+    100674: kluson-middle
+    100676: kluson-middle 1
+    100678: kluson-middle 2
+    100680: kluson-middle 3
+    100682: kluson-right
+    100684: Pat.Pend Saddle
+    100686: Pat.Pend Saddle 1
+    100688: Pat.Pend Saddle 2
+    100690: Pat.Pend Saddle 3
+    100692: Pat.Pend Saddle 4
+    100694: Pat.Pend Saddle 5
+    100696: spring
+    100698: spring 1
+    100700: spring 2
+    100702: spring 3
+    100704: spring 4
+    100706: spring 5
+    100708: string tree
+    100710: TELECASTER#1
+    100712: THINLINE#3
+    100714: tuner - top
+    100716: tuner - top 1
+    100718: tuner - top 2
+    100720: tuner - top 3
+    100722: tuner - top 4
+    100724: tuner - top 5
+    400000: BigScrew
+    400002: BigScrew 1
+    400004: BigScrew 10
+    400006: BigScrew 11
+    400008: BigScrew 2
+    400010: BigScrew 3
+    400012: BigScrew 4
+    400014: BigScrew 5
+    400016: BigScrew 6
+    400018: BigScrew 7
+    400020: BigScrew 8
+    400022: BigScrew 9
+    400024: 'Created by: Brad#1'
+    400026: //RootNode
+    400028: Group 11
+    400030: Group 117
+    400032: Group 119
+    400034: Group 121
+    400036: Group 123
+    400038: Group 125
+    400040: Group 127
+    400042: Group 129
+    400044: Group 13
+    400046: Group 131
+    400048: Group 133
+    400050: Group 135
+    400052: Group 137
+    400054: Group 140
+    400056: Group 144
+    400058: Group 148
+    400060: Group 15
+    400062: Group 154
+    400064: Group 160
+    400066: Group 164
+    400068: Group 17
+    400070: Group 172
+    400072: Group 176
+    400074: Group 180
+    400076: Group 188
+    400078: Group 19
+    400080: Group 192
+    400082: Group 198
+    400084: Group 200
+    400086: Group 201
+    400088: Group 202
+    400090: Group 204
+    400092: Group 206
+    400094: Group 208
+    400096: Group 21
+    400098: Group 210
+    400100: Group 23
+    400102: Group 25
+    400104: Group 253
+    400106: Group 255
+    400108: Group 257
+    400110: Group 262
+    400112: Group 264
+    400114: Group 266
+    400116: Group 268
+    400118: Group 27
+    400120: Group 270
+    400122: Group 272
+    400124: Group 274
+    400126: Group 276
+    400128: Group 278
+    400130: Group 280
+    400132: Group 282
+    400134: Group 284
+    400136: Group 286
+    400138: Group 288
+    400140: Group 29
+    400142: Group 290
+    400144: Group 291
+    400146: Group 293
+    400148: Group 295
+    400150: Group 297
+    400152: Group 299
+    400154: Group 300
+    400156: Group 302
+    400158: Group 304
+    400160: Group 306
+    400162: Group 308
+    400164: Group 309
+    400166: Group 31
+    400168: Group 311
+    400170: Group 313
+    400172: Group 315
+    400174: Group 317
+    400176: Group 318
+    400178: Group 32
+    400180: Group 320
+    400182: Group 322
+    400184: Group 324
+    400186: Group 326
+    400188: Group 327
+    400190: Group 329
+    400192: Group 331
+    400194: Group 333
+    400196: Group 335
+    400198: Group 336
+    400200: Group 338
+    400202: Group 340
+    400204: Group 342
+    400206: Group 344
+    400208: Group 346
+    400210: Group 348
+    400212: Group 350
+    400214: Group 352
+    400216: Group 354
+    400218: Group 355
+    400220: Group 357
+    400222: Group 359
+    400224: Group 36
+    400226: Group 369
+    400228: Group 37
+    400230: Group 370
+    400232: Group 371
+    400234: Group 373
+    400236: Group 375
+    400238: Group 376
+    400240: Group 378
+    400242: Group 380
+    400244: Group 381
+    400246: Group 383
+    400248: Group 385
+    400250: Group 387
+    400252: Group 391
+    400254: Group 392
+    400256: Group 393
+    400258: Group 395
+    400260: Group 397
+    400262: Group 398
+    400264: Group 400
+    400266: Group 402
+    400268: Group 403
+    400270: Group 405
+    400272: Group 407
+    400274: Group 409
+    400276: Group 41
+    400278: Group 413
+    400280: Group 414
+    400282: Group 415
+    400284: Group 417
+    400286: Group 419
+    400288: Group 420
+    400290: Group 422
+    400292: Group 424
+    400294: Group 425
+    400296: Group 427
+    400298: Group 429
+    400300: Group 43
+    400302: Group 431
+    400304: Group 435
+    400306: Group 436
+    400308: Group 437
+    400310: Group 439
+    400312: Group 441
+    400314: Group 442
+    400316: Group 444
+    400318: Group 446
+    400320: Group 447
+    400322: Group 449
+    400324: Group 451
+    400326: Group 453
+    400328: Group 457
+    400330: Group 458
+    400332: Group 459
+    400334: Group 461
+    400336: Group 463
+    400338: Group 464
+    400340: Group 466
+    400342: Group 468
+    400344: Group 469
+    400346: Group 471
+    400348: Group 473
+    400350: Group 475
+    400352: Group 479
+    400354: Group 480
+    400356: Group 481
+    400358: Group 483
+    400360: Group 485
+    400362: Group 486
+    400364: Group 488
+    400366: Group 490
+    400368: Group 491
+    400370: Group 493
+    400372: Group 495
+    400374: Group 497
+    400376: Group 527
+    400378: Group 528
+    400380: Group 529
+    400382: Group 531
+    400384: Group 533
+    400386: Group 534
+    400388: Group 536
+    400390: Group 538
+    400392: Group 539
+    400394: Group 541
+    400396: Group 543
+    400398: Group 545
+    400400: Group 549
+    400402: Group 550
+    400404: Group 551
+    400406: Group 553
+    400408: Group 555
+    400410: Group 556
+    400412: Group 558
+    400414: Group 560
+    400416: Group 561
+    400418: Group 563
+    400420: Group 565
+    400422: Group 567
+    400424: Group 571
+    400426: Group 572
+    400428: Group 573
+    400430: Group 575
+    400432: Group 577
+    400434: Group 578
+    400436: Group 580
+    400438: Group 582
+    400440: Group 583
+    400442: Group 585
+    400444: Group 587
+    400446: Group 589
+    400448: Group 593
+    400450: Group 594
+    400452: Group 595
+    400454: Group 597
+    400456: Group 599
+    400458: Group 6
+    400460: Group 600
+    400462: Group 602
+    400464: Group 604
+    400466: Group 605
+    400468: Group 607
+    400470: Group 609
+    400472: Group 611
+    400474: Group 615
+    400476: Group 616
+    400478: Group 617
+    400480: Group 619
+    400482: Group 621
+    400484: Group 622
+    400486: Group 624
+    400488: Group 626
+    400490: Group 627
+    400492: Group 629
+    400494: Group 631
+    400496: Group 633
+    400498: Group 637
+    400500: Group 638
+    400502: Group 639
+    400504: Group 641
+    400506: Group 643
+    400508: Group 644
+    400510: Group 646
+    400512: Group 648
+    400514: Group 649
+    400516: Group 651
+    400518: Group 653
+    400520: Group 655
+    400522: Group 7
+    400524: Group 9
+    400526: Group#16
+    400528: Group#16 1
+    400530: Group#16 10
+    400532: Group#16 11
+    400534: Group#16 12
+    400536: Group#16 13
+    400538: Group#16 14
+    400540: Group#16 15
+    400542: Group#16 16
+    400544: Group#16 17
+    400546: Group#16 18
+    400548: Group#16 19
+    400550: Group#16 2
+    400552: Group#16 20
+    400554: Group#16 3
+    400556: Group#16 4
+    400558: Group#16 5
+    400560: Group#16 6
+    400562: Group#16 7
+    400564: Group#16 8
+    400566: Group#16 9
+    400568: grub screw
+    400570: grub screw 1
+    400572: grub screw 10
+    400574: grub screw 11
+    400576: grub screw 12
+    400578: grub screw 13
+    400580: grub screw 14
+    400582: grub screw 15
+    400584: grub screw 16
+    400586: grub screw 17
+    400588: grub screw 2
+    400590: grub screw 3
+    400592: grub screw 4
+    400594: grub screw 5
+    400596: grub screw 6
+    400598: grub screw 7
+    400600: grub screw 8
+    400602: grub screw 9
+    400604: kluson screw
+    400606: kluson screw 1
+    400608: kluson screw 10
+    400610: kluson screw 11
+    400612: kluson screw 12
+    400614: kluson screw 13
+    400616: kluson screw 14
+    400618: kluson screw 15
+    400620: kluson screw 16
+    400622: kluson screw 17
+    400624: kluson screw 18
+    400626: kluson screw 2
+    400628: kluson screw 3
+    400630: kluson screw 4
+    400632: kluson screw 5
+    400634: kluson screw 6
+    400636: kluson screw 7
+    400638: kluson screw 8
+    400640: kluson screw 9
+    400642: kluson screw#1
+    400644: kluson screw#2
+    400646: kluson screw#2 1
+    400648: kluson screw#2 2
+    400650: kluson screw#2 3
+    400652: kluson screw#2 4
+    400654: kluson screw#2 5
+    400656: kluson screw#2 6
+    400658: kluson screw#3
+    400660: kluson screw#3 1
+    400662: kluson screw#3 2
+    400664: kluson screw#3 3
+    400666: kluson screw#3 4
+    400668: kluson screw#3 5
+    400670: kluson screw#3 6
+    400672: kluson-left
+    400674: kluson-middle
+    400676: kluson-middle 1
+    400678: kluson-middle 2
+    400680: kluson-middle 3
+    400682: kluson-right
+    400684: Pat.Pend Saddle
+    400686: Pat.Pend Saddle 1
+    400688: Pat.Pend Saddle 2
+    400690: Pat.Pend Saddle 3
+    400692: Pat.Pend Saddle 4
+    400694: Pat.Pend Saddle 5
+    400696: spring
+    400698: spring 1
+    400700: spring 2
+    400702: spring 3
+    400704: spring 4
+    400706: spring 5
+    400708: string tree
+    400710: TELECASTER#1
+    400712: THINLINE#3
+    400714: tuner - top
+    400716: tuner - top 1
+    400718: tuner - top 2
+    400720: tuner - top 3
+    400722: tuner - top 4
+    400724: tuner - top 5
+    2300000: BigScrew
+    2300002: BigScrew 1
+    2300004: BigScrew 10
+    2300006: BigScrew 11
+    2300008: BigScrew 2
+    2300010: BigScrew 3
+    2300012: BigScrew 4
+    2300014: BigScrew 5
+    2300016: BigScrew 6
+    2300018: BigScrew 7
+    2300020: BigScrew 8
+    2300022: BigScrew 9
+    2300024: 'Created by: Brad#1'
+    2300026: //RootNode
+    2300028: Group 11
+    2300030: Group 117
+    2300032: Group 119
+    2300034: Group 121
+    2300036: Group 123
+    2300038: Group 125
+    2300040: Group 127
+    2300042: Group 129
+    2300044: Group 13
+    2300046: Group 131
+    2300048: Group 133
+    2300050: Group 135
+    2300052: Group 140
+    2300054: Group 144
+    2300056: Group 148
+    2300058: Group 15
+    2300060: Group 154
+    2300062: Group 160
+    2300064: Group 164
+    2300066: Group 17
+    2300068: Group 172
+    2300070: Group 176
+    2300072: Group 180
+    2300074: Group 188
+    2300076: Group 19
+    2300078: Group 192
+    2300080: Group 198
+    2300082: Group 202
+    2300084: Group 204
+    2300086: Group 206
+    2300088: Group 208
+    2300090: Group 21
+    2300092: Group 23
+    2300094: Group 25
+    2300096: Group 253
+    2300098: Group 255
+    2300100: Group 262
+    2300102: Group 264
+    2300104: Group 266
+    2300106: Group 268
+    2300108: Group 27
+    2300110: Group 270
+    2300112: Group 272
+    2300114: Group 274
+    2300116: Group 276
+    2300118: Group 278
+    2300120: Group 280
+    2300122: Group 282
+    2300124: Group 284
+    2300126: Group 286
+    2300128: Group 288
+    2300130: Group 29
+    2300132: Group 291
+    2300134: Group 293
+    2300136: Group 295
+    2300138: Group 297
+    2300140: Group 300
+    2300142: Group 302
+    2300144: Group 304
+    2300146: Group 306
+    2300148: Group 309
+    2300150: Group 311
+    2300152: Group 313
+    2300154: Group 315
+    2300156: Group 318
+    2300158: Group 32
+    2300160: Group 320
+    2300162: Group 322
+    2300164: Group 324
+    2300166: Group 327
+    2300168: Group 329
+    2300170: Group 331
+    2300172: Group 333
+    2300174: Group 336
+    2300176: Group 338
+    2300178: Group 340
+    2300180: Group 342
+    2300182: Group 344
+    2300184: Group 346
+    2300186: Group 348
+    2300188: Group 350
+    2300190: Group 352
+    2300192: Group 355
+    2300194: Group 357
+    2300196: Group 359
+    2300198: Group 37
+    2300200: Group 371
+    2300202: Group 373
+    2300204: Group 376
+    2300206: Group 378
+    2300208: Group 381
+    2300210: Group 383
+    2300212: Group 385
+    2300214: Group 387
+    2300216: Group 393
+    2300218: Group 395
+    2300220: Group 398
+    2300222: Group 400
+    2300224: Group 403
+    2300226: Group 405
+    2300228: Group 407
+    2300230: Group 409
+    2300232: Group 41
+    2300234: Group 415
+    2300236: Group 417
+    2300238: Group 420
+    2300240: Group 422
+    2300242: Group 425
+    2300244: Group 427
+    2300246: Group 429
+    2300248: Group 43
+    2300250: Group 431
+    2300252: Group 437
+    2300254: Group 439
+    2300256: Group 442
+    2300258: Group 444
+    2300260: Group 447
+    2300262: Group 449
+    2300264: Group 451
+    2300266: Group 453
+    2300268: Group 459
+    2300270: Group 461
+    2300272: Group 464
+    2300274: Group 466
+    2300276: Group 469
+    2300278: Group 471
+    2300280: Group 473
+    2300282: Group 475
+    2300284: Group 481
+    2300286: Group 483
+    2300288: Group 486
+    2300290: Group 488
+    2300292: Group 491
+    2300294: Group 493
+    2300296: Group 495
+    2300298: Group 497
+    2300300: Group 529
+    2300302: Group 531
+    2300304: Group 534
+    2300306: Group 536
+    2300308: Group 539
+    2300310: Group 541
+    2300312: Group 543
+    2300314: Group 545
+    2300316: Group 551
+    2300318: Group 553
+    2300320: Group 556
+    2300322: Group 558
+    2300324: Group 561
+    2300326: Group 563
+    2300328: Group 565
+    2300330: Group 567
+    2300332: Group 573
+    2300334: Group 575
+    2300336: Group 578
+    2300338: Group 580
+    2300340: Group 583
+    2300342: Group 585
+    2300344: Group 587
+    2300346: Group 589
+    2300348: Group 595
+    2300350: Group 597
+    2300352: Group 600
+    2300354: Group 602
+    2300356: Group 605
+    2300358: Group 607
+    2300360: Group 609
+    2300362: Group 611
+    2300364: Group 617
+    2300366: Group 619
+    2300368: Group 622
+    2300370: Group 624
+    2300372: Group 627
+    2300374: Group 629
+    2300376: Group 631
+    2300378: Group 633
+    2300380: Group 639
+    2300382: Group 641
+    2300384: Group 644
+    2300386: Group 646
+    2300388: Group 649
+    2300390: Group 651
+    2300392: Group 653
+    2300394: Group 655
+    2300396: Group 7
+    2300398: Group 9
+    2300400: Group#16
+    2300402: Group#16 1
+    2300404: Group#16 10
+    2300406: Group#16 11
+    2300408: Group#16 12
+    2300410: Group#16 13
+    2300412: Group#16 14
+    2300414: Group#16 15
+    2300416: Group#16 16
+    2300418: Group#16 17
+    2300420: Group#16 18
+    2300422: Group#16 19
+    2300424: Group#16 2
+    2300426: Group#16 20
+    2300428: Group#16 3
+    2300430: Group#16 4
+    2300432: Group#16 5
+    2300434: Group#16 6
+    2300436: Group#16 7
+    2300438: Group#16 8
+    2300440: Group#16 9
+    2300442: grub screw
+    2300444: grub screw 1
+    2300446: grub screw 10
+    2300448: grub screw 11
+    2300450: grub screw 12
+    2300452: grub screw 13
+    2300454: grub screw 14
+    2300456: grub screw 15
+    2300458: grub screw 16
+    2300460: grub screw 17
+    2300462: grub screw 2
+    2300464: grub screw 3
+    2300466: grub screw 4
+    2300468: grub screw 5
+    2300470: grub screw 6
+    2300472: grub screw 7
+    2300474: grub screw 8
+    2300476: grub screw 9
+    2300478: kluson screw
+    2300480: kluson screw 1
+    2300482: kluson screw 10
+    2300484: kluson screw 11
+    2300486: kluson screw 12
+    2300488: kluson screw 13
+    2300490: kluson screw 14
+    2300492: kluson screw 15
+    2300494: kluson screw 16
+    2300496: kluson screw 17
+    2300498: kluson screw 18
+    2300500: kluson screw 2
+    2300502: kluson screw 3
+    2300504: kluson screw 4
+    2300506: kluson screw 5
+    2300508: kluson screw 6
+    2300510: kluson screw 7
+    2300512: kluson screw 8
+    2300514: kluson screw 9
+    2300516: kluson screw#1
+    2300518: kluson screw#2
+    2300520: kluson screw#2 1
+    2300522: kluson screw#2 2
+    2300524: kluson screw#2 3
+    2300526: kluson screw#2 4
+    2300528: kluson screw#2 5
+    2300530: kluson screw#2 6
+    2300532: kluson screw#3
+    2300534: kluson screw#3 1
+    2300536: kluson screw#3 2
+    2300538: kluson screw#3 3
+    2300540: kluson screw#3 4
+    2300542: kluson screw#3 5
+    2300544: kluson screw#3 6
+    2300546: kluson-left
+    2300548: kluson-middle
+    2300550: kluson-middle 1
+    2300552: kluson-middle 2
+    2300554: kluson-middle 3
+    2300556: kluson-right
+    2300558: Pat.Pend Saddle
+    2300560: Pat.Pend Saddle 1
+    2300562: Pat.Pend Saddle 2
+    2300564: Pat.Pend Saddle 3
+    2300566: Pat.Pend Saddle 4
+    2300568: Pat.Pend Saddle 5
+    2300570: spring
+    2300572: spring 1
+    2300574: spring 2
+    2300576: spring 3
+    2300578: spring 4
+    2300580: spring 5
+    2300582: string tree
+    2300584: TELECASTER#1
+    2300586: THINLINE#3
+    2300588: tuner - top
+    2300590: tuner - top 1
+    2300592: tuner - top 2
+    2300594: tuner - top 3
+    2300596: tuner - top 4
+    2300598: tuner - top 5
+    3300000: BigScrew
+    3300002: BigScrew 1
+    3300004: BigScrew 10
+    3300006: BigScrew 11
+    3300008: BigScrew 2
+    3300010: BigScrew 3
+    3300012: BigScrew 4
+    3300014: BigScrew 5
+    3300016: BigScrew 6
+    3300018: BigScrew 7
+    3300020: BigScrew 8
+    3300022: BigScrew 9
+    3300024: 'Created by: Brad#1'
+    3300026: //RootNode
+    3300028: Group 11
+    3300030: Group 117
+    3300032: Group 119
+    3300034: Group 121
+    3300036: Group 123
+    3300038: Group 125
+    3300040: Group 127
+    3300042: Group 129
+    3300044: Group 13
+    3300046: Group 131
+    3300048: Group 133
+    3300050: Group 135
+    3300052: Group 140
+    3300054: Group 144
+    3300056: Group 148
+    3300058: Group 15
+    3300060: Group 154
+    3300062: Group 160
+    3300064: Group 164
+    3300066: Group 17
+    3300068: Group 172
+    3300070: Group 176
+    3300072: Group 180
+    3300074: Group 188
+    3300076: Group 19
+    3300078: Group 192
+    3300080: Group 198
+    3300082: Group 202
+    3300084: Group 204
+    3300086: Group 206
+    3300088: Group 208
+    3300090: Group 21
+    3300092: Group 23
+    3300094: Group 25
+    3300096: Group 253
+    3300098: Group 255
+    3300100: Group 262
+    3300102: Group 264
+    3300104: Group 266
+    3300106: Group 268
+    3300108: Group 27
+    3300110: Group 270
+    3300112: Group 272
+    3300114: Group 274
+    3300116: Group 276
+    3300118: Group 278
+    3300120: Group 280
+    3300122: Group 282
+    3300124: Group 284
+    3300126: Group 286
+    3300128: Group 288
+    3300130: Group 29
+    3300132: Group 291
+    3300134: Group 293
+    3300136: Group 295
+    3300138: Group 297
+    3300140: Group 300
+    3300142: Group 302
+    3300144: Group 304
+    3300146: Group 306
+    3300148: Group 309
+    3300150: Group 311
+    3300152: Group 313
+    3300154: Group 315
+    3300156: Group 318
+    3300158: Group 32
+    3300160: Group 320
+    3300162: Group 322
+    3300164: Group 324
+    3300166: Group 327
+    3300168: Group 329
+    3300170: Group 331
+    3300172: Group 333
+    3300174: Group 336
+    3300176: Group 338
+    3300178: Group 340
+    3300180: Group 342
+    3300182: Group 344
+    3300184: Group 346
+    3300186: Group 348
+    3300188: Group 350
+    3300190: Group 352
+    3300192: Group 355
+    3300194: Group 357
+    3300196: Group 359
+    3300198: Group 37
+    3300200: Group 371
+    3300202: Group 373
+    3300204: Group 376
+    3300206: Group 378
+    3300208: Group 381
+    3300210: Group 383
+    3300212: Group 385
+    3300214: Group 387
+    3300216: Group 393
+    3300218: Group 395
+    3300220: Group 398
+    3300222: Group 400
+    3300224: Group 403
+    3300226: Group 405
+    3300228: Group 407
+    3300230: Group 409
+    3300232: Group 41
+    3300234: Group 415
+    3300236: Group 417
+    3300238: Group 420
+    3300240: Group 422
+    3300242: Group 425
+    3300244: Group 427
+    3300246: Group 429
+    3300248: Group 43
+    3300250: Group 431
+    3300252: Group 437
+    3300254: Group 439
+    3300256: Group 442
+    3300258: Group 444
+    3300260: Group 447
+    3300262: Group 449
+    3300264: Group 451
+    3300266: Group 453
+    3300268: Group 459
+    3300270: Group 461
+    3300272: Group 464
+    3300274: Group 466
+    3300276: Group 469
+    3300278: Group 471
+    3300280: Group 473
+    3300282: Group 475
+    3300284: Group 481
+    3300286: Group 483
+    3300288: Group 486
+    3300290: Group 488
+    3300292: Group 491
+    3300294: Group 493
+    3300296: Group 495
+    3300298: Group 497
+    3300300: Group 529
+    3300302: Group 531
+    3300304: Group 534
+    3300306: Group 536
+    3300308: Group 539
+    3300310: Group 541
+    3300312: Group 543
+    3300314: Group 545
+    3300316: Group 551
+    3300318: Group 553
+    3300320: Group 556
+    3300322: Group 558
+    3300324: Group 561
+    3300326: Group 563
+    3300328: Group 565
+    3300330: Group 567
+    3300332: Group 573
+    3300334: Group 575
+    3300336: Group 578
+    3300338: Group 580
+    3300340: Group 583
+    3300342: Group 585
+    3300344: Group 587
+    3300346: Group 589
+    3300348: Group 595
+    3300350: Group 597
+    3300352: Group 600
+    3300354: Group 602
+    3300356: Group 605
+    3300358: Group 607
+    3300360: Group 609
+    3300362: Group 611
+    3300364: Group 617
+    3300366: Group 619
+    3300368: Group 622
+    3300370: Group 624
+    3300372: Group 627
+    3300374: Group 629
+    3300376: Group 631
+    3300378: Group 633
+    3300380: Group 639
+    3300382: Group 641
+    3300384: Group 644
+    3300386: Group 646
+    3300388: Group 649
+    3300390: Group 651
+    3300392: Group 653
+    3300394: Group 655
+    3300396: Group 7
+    3300398: Group 9
+    3300400: Group#16
+    3300402: Group#16 1
+    3300404: Group#16 10
+    3300406: Group#16 11
+    3300408: Group#16 12
+    3300410: Group#16 13
+    3300412: Group#16 14
+    3300414: Group#16 15
+    3300416: Group#16 16
+    3300418: Group#16 17
+    3300420: Group#16 18
+    3300422: Group#16 19
+    3300424: Group#16 2
+    3300426: Group#16 20
+    3300428: Group#16 3
+    3300430: Group#16 4
+    3300432: Group#16 5
+    3300434: Group#16 6
+    3300436: Group#16 7
+    3300438: Group#16 8
+    3300440: Group#16 9
+    3300442: grub screw
+    3300444: grub screw 1
+    3300446: grub screw 10
+    3300448: grub screw 11
+    3300450: grub screw 12
+    3300452: grub screw 13
+    3300454: grub screw 14
+    3300456: grub screw 15
+    3300458: grub screw 16
+    3300460: grub screw 17
+    3300462: grub screw 2
+    3300464: grub screw 3
+    3300466: grub screw 4
+    3300468: grub screw 5
+    3300470: grub screw 6
+    3300472: grub screw 7
+    3300474: grub screw 8
+    3300476: grub screw 9
+    3300478: kluson screw
+    3300480: kluson screw 1
+    3300482: kluson screw 10
+    3300484: kluson screw 11
+    3300486: kluson screw 12
+    3300488: kluson screw 13
+    3300490: kluson screw 14
+    3300492: kluson screw 15
+    3300494: kluson screw 16
+    3300496: kluson screw 17
+    3300498: kluson screw 18
+    3300500: kluson screw 2
+    3300502: kluson screw 3
+    3300504: kluson screw 4
+    3300506: kluson screw 5
+    3300508: kluson screw 6
+    3300510: kluson screw 7
+    3300512: kluson screw 8
+    3300514: kluson screw 9
+    3300516: kluson screw#1
+    3300518: kluson screw#2
+    3300520: kluson screw#2 1
+    3300522: kluson screw#2 2
+    3300524: kluson screw#2 3
+    3300526: kluson screw#2 4
+    3300528: kluson screw#2 5
+    3300530: kluson screw#2 6
+    3300532: kluson screw#3
+    3300534: kluson screw#3 1
+    3300536: kluson screw#3 2
+    3300538: kluson screw#3 3
+    3300540: kluson screw#3 4
+    3300542: kluson screw#3 5
+    3300544: kluson screw#3 6
+    3300546: kluson-left
+    3300548: kluson-middle
+    3300550: kluson-middle 1
+    3300552: kluson-middle 2
+    3300554: kluson-middle 3
+    3300556: kluson-right
+    3300558: Pat.Pend Saddle
+    3300560: Pat.Pend Saddle 1
+    3300562: Pat.Pend Saddle 2
+    3300564: Pat.Pend Saddle 3
+    3300566: Pat.Pend Saddle 4
+    3300568: Pat.Pend Saddle 5
+    3300570: spring
+    3300572: spring 1
+    3300574: spring 2
+    3300576: spring 3
+    3300578: spring 4
+    3300580: spring 5
+    3300582: string tree
+    3300584: TELECASTER#1
+    3300586: THINLINE#3
+    3300588: tuner - top
+    3300590: tuner - top 1
+    3300592: tuner - top 2
+    3300594: tuner - top 3
+    3300596: tuner - top 4
+    3300598: tuner - top 5
+    4300000: Mesh Fender+Telecaster
+    4300002: Mesh Group 7
+    4300004: Mesh Group 9
+    4300006: Mesh Group 11
+    4300008: Mesh Group 13
+    4300010: Mesh Group 29
+    4300012: Mesh Group 32
+    4300014: Mesh kluson screw
+    4300016: Mesh Group 41
+    4300018: Mesh Group 43
+    4300020: Mesh kluson screw#2
+    4300022: Mesh Pat.Pend Saddle
+    4300024: Mesh grub screw
+    4300026: Mesh grub screw
+    4300028: Mesh grub screw
+    4300030: Mesh spring
+    4300032: Mesh Pat.Pend Saddle
+    4300034: Mesh Group 117
+    4300036: Mesh Group 121
+    4300038: Mesh Group 133
+    4300040: Mesh Group 135
+    4300042: Mesh tuner - top
+    4300044: Mesh Group 140
+    4300046: Mesh tuner - top
+    4300048: Mesh Group 144
+    4300050: Mesh kluson-right
+    4300052: Mesh Group 148
+    4300054: Mesh kluson screw#3
+    4300056: Mesh kluson-middle
+    4300058: Mesh Group 160
+    4300060: Mesh kluson-left
+    4300062: Mesh Group 180
+    4300064: Mesh Group 202
+    4300066: Mesh Group 204
+    4300068: Mesh Group 206
+    4300070: Mesh Group 208
+    4300072: Mesh Group#16
+    4300074: Mesh Group 253
+    4300076: Mesh Group 255
+    4300078: Mesh kluson screw#1
+    4300080: Mesh string tree
+    4300082: Mesh Group 262
+    4300084: Mesh Group 264
+    4300086: Mesh Group 266
+    4300088: Mesh Group 268
+    4300090: Mesh Group 270
+    4300092: Mesh Group 272
+    4300094: Mesh Group 274
+    4300096: Mesh Group 276
+    4300098: Mesh Group 278
+    4300100: Mesh Group 280
+    4300102: Mesh Group 286
+    4300104: Mesh Group 291
+    4300106: Mesh Group 293
+    4300108: Mesh Group 295
+    4300110: Mesh Group 297
+    4300112: Mesh Group 336
+    4300114: Mesh Group 338
+    4300116: Mesh Group 340
+    4300118: Mesh Group 342
+    4300120: Mesh Group 355
+    4300122: Mesh Group 359
+    4300124: 'Mesh Created by: Brad#1'
+    4300126: Mesh kluson screw#2
+    4300128: Mesh BigScrew
+    4300130: Mesh Group 371
+    4300132: Mesh Group 387
+    4300134: Mesh TELECASTER#1
+    4300136: Mesh THINLINE#3
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

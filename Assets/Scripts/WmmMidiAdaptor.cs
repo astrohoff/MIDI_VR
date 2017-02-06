@@ -5,7 +5,7 @@ using UnityEngine;
 public class WmmMidiAdaptor : MidiAdaptor
 {
     private int handle = 0;
-    public int device = 0;
+    public int device = 1;
 
     // Imported Windows Multimedia functions.
 
@@ -140,6 +140,7 @@ public class WmmMidiAdaptor : MidiAdaptor
     private void Awake()
     {
         Debug.Log(GetMidiDevicesInfoString());
+        Debug.Log("Opening device " + device);
         int error = midiOutOpen(ref handle, device, null, 0, 0);
         if(error != 0)
         {
