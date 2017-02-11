@@ -21,6 +21,8 @@ public class StringHitPlayer : MonoBehaviour {
         if(c.collider.tag == "Striker")
         {
             noteSource.Play(127, 127, ringDurration);
+            byte[] vibBuf = Vibrator.GenerateVibration(noteSource.GetNote(), 4, 0.05f, 0.5f);
+            OVRHaptics.RightChannel.Mix(new OVRHapticsClip(vibBuf, vibBuf.Length));
         }
     }
 }

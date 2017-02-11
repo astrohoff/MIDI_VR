@@ -97,6 +97,8 @@ public class FrettingController : MonoBehaviour {
         }
         currentFrets.Add(c.GetComponent<FretInfo>().fretNumber);
         UpdateNotes();
+        byte[] vibBuf = Vibrator.GenerateVibration(64, 1, 0.1f, 0.5f);
+        OVRHaptics.LeftChannel.Mix(new OVRHapticsClip(vibBuf, vibBuf.Length));
 
     }
 
