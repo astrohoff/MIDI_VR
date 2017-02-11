@@ -7,6 +7,7 @@ public class NoteSource : MonoBehaviour {
     private byte midiChannel;
     private byte midiNote = 64;
     private IEnumerator playCoroutine;
+    private bool isMuted = false;
 
     public void Ininitalize(MidiAdaptor midiAdaptor, byte channel, byte note)
     {
@@ -28,26 +29,32 @@ public class NoteSource : MonoBehaviour {
 
     public void Play(byte attackVelocity, byte releaseVelocity, float duration)
     {
-        if(playCoroutine != null)
+        if (!isMuted)
         {
-            StopCoroutine(playCoroutine);
-            playCoroutine = null;
-        }
-        if(duration > 0)
-        {
-            playCoroutine = PlayCoroutine(attackVelocity, releaseVelocity, duration);
-            StartCoroutine(playCoroutine);
-        }
+            if (playCoroutine != null)
+            {
+                StopCoroutine(playCoroutine);
+                playCoroutine = null;
+            }
+            if (duration > 0)
+            {
+                playCoroutine = PlayCoroutine(attackVelocity, releaseVelocity, duration);
+                StartCoroutine(playCoroutine);
+            }
+        }        
     }
 
     public void Play(byte attackVelocity)
     {
-        if(playCoroutine != null)
+        if (!isMuted)
         {
-            StopCoroutine(playCoroutine);
-            playCoroutine = null;
-        }
-        midiAdaptor.SetNoteOn(midiChannel, midiNote, attackVelocity);
+            if (playCoroutine != null)
+            {
+                StopCoroutine(playCoroutine);
+                playCoroutine = null;
+            }
+            midiAdaptor.SetNoteOn(midiChannel, midiNote, attackVelocity);
+        }       
     }
 
     private IEnumerator PlayCoroutine(byte attackVelocity, byte releaseVelocity, float durration)
@@ -75,5 +82,14 @@ public class NoteSource : MonoBehaviour {
     public byte GetChannel()
     {
         return midiChannel;
+    }
+    
+    public void SetMute(bool mute)
+    {
+        isMuted = mute;
+        if (mute)
+        {
+            Deaden(127);
+        }
     }
 }
