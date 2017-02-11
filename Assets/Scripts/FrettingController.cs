@@ -33,14 +33,14 @@ public class FrettingController : MonoBehaviour {
 
         // Chords.
         Chord newChord = Chord.Straight;
-        /*if (OVRInput.Get(OVRInput.Touch.PrimaryIndexTrigger))
+        if (OVRInput.Get(OVRInput.Touch.PrimaryIndexTrigger))
         {
             if (OVRInput.Get(OVRInput.Button.PrimaryIndexTrigger))
             {
                 if (OVRInput.Get(OVRInput.Button.PrimaryHandTrigger))
                 {
                     //if(rootString == 0)
-                    if(OVRInput.Get(OVRInput.Touch.Three))
+                    if (OVRInput.Get(OVRInput.Touch.Three))
                     {
                         newChord = Chord.Minor5;
                     }
@@ -54,7 +54,7 @@ public class FrettingController : MonoBehaviour {
                 else
                 {
                     //if(rootString == 0)
-                    if(OVRInput.Get(OVRInput.Touch.Three))
+                    if (OVRInput.Get(OVRInput.Touch.Three))
                     {
                         newChord = Chord.Major5;
 
@@ -67,7 +67,21 @@ public class FrettingController : MonoBehaviour {
                     }
                 }
             }
-        }*/
+            else
+            {
+                if (!OVRInput.Get(OVRInput.Button.PrimaryHandTrigger))
+                {
+                    if (OVRInput.Get(OVRInput.Touch.Three))
+                    {
+                        newChord = Chord.Power5;
+                    }
+                    else
+                    {
+                        newChord = Chord.Power6;
+                    }
+                }
+            } 
+        }
         if(newChord != currentChord)
         {
             currentChord = newChord;
