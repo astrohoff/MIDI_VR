@@ -28,3 +28,14 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+*.exe
+*.mid
+*.mp3
+bass24/
+Bass24.Net/
+bassasio13/
+bassmidi24/
+bassmix24/
+basswasapi24/
+mivri_Data/
+*.SF2

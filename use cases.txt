@@ -1,0 +1,80 @@
+Play an instrument for fun
+	Spawn an instrument
+		View available instruments
+			Choose between default or custom instruments
+				Select tab
+					Point at tab
+						Display pointer ray
+						Highlight pointer focus
+					Click on tab
+						Switch tabs
+			View instrument tiles
+				View identifying info
+					Icon
+					Name
+			Scroll through tiles
+				Click on scroll panel
+					Highlight selection
+				Drag panel
+					Move if content outside scroll panel
+		Select an instrument
+			Point at tile
+				Highlight selection
+		View selected instrument details
+			Show in side panel
+			Details
+				Interface
+				Voice
+		Choose action
+			Select button
+				Point at button
+					Highlight focus
+				Click button
+			Actions
+				Cancel
+					Close menu
+				Spawn
+					Spawn instrument with default positioning
+	Play a chord
+		Select chord type
+			Move stick to chord range
+			Apply hand pose
+		Select root note
+			Pointer - point at note
+			Guitar - 
+				Select fret position
+				Select string
+					Rotate hand angle
+			Hit - Strike note source
+			Highlight chord notes
+		Trigger notes
+			Apply initial velocity
+			Generate note sounds
+		Update note parameters
+			Pressure
+			Vibrato
+			Timbre
+		Release notes
+			Apply release velocity
+Edit instrument chords
+Edit chord positions on stick
+Edit instrument settings
+Create custom instrument
+	Save current instrument
+	Enter name
+	Confirm
+Listen to MIDI file
+	Select file
+		Browse
+		Select
+		Confirm
+	View instruments
+		Spawn instruments
+	Control playback
+		Play
+		Pause
+Create midi composition
+Join a networked session
+Create a networked session
+Record MIDI performance
+Record VR performance
